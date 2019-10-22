@@ -1,0 +1,3227 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: DIGITS: Wordpress Mobile Number Signup and Login\n"
+"POT-Creation-Date: 2019-06-19 18:32+0530\n"
+"PO-Revision-Date: 2019-10-04 22:36-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ur\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:54
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:54
+#: digfilter/Puc/v4p6/Plugin/Ui.php:54 digmergphne/Puc/v4p6/Plugin/Ui.php:54
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:54
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:54
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:54 update/Puc/v4p6/Plugin/Ui.php:54
+msgid "View details"
+msgstr "تفصیلات دیکھیں"
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:77
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:77
+#: digfilter/Puc/v4p6/Plugin/Ui.php:77 digmergphne/Puc/v4p6/Plugin/Ui.php:77
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:77
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:77
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:77 update/Puc/v4p6/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "%s کے بارے میں مزید معلومات"
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:128
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:128
+#: digfilter/Puc/v4p6/Plugin/Ui.php:128 digmergphne/Puc/v4p6/Plugin/Ui.php:128
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:128
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:128
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:128 update/Puc/v4p6/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "اپ ڈیٹ کے لیے چیک کریں"
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:213
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:213
+#: digfilter/Puc/v4p6/Plugin/Ui.php:213 digmergphne/Puc/v4p6/Plugin/Ui.php:213
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:213
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:213
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:213 update/Puc/v4p6/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "%s   پلگ ان اپ ٹو ڈیٹ ہے."
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:215
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:215
+#: digfilter/Puc/v4p6/Plugin/Ui.php:215 digmergphne/Puc/v4p6/Plugin/Ui.php:215
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:215
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:215
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:215 update/Puc/v4p6/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "%s پلگ ان کا ایک نیا ورژن دستیاب ہے."
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:217
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:217
+#: digfilter/Puc/v4p6/Plugin/Ui.php:217 digmergphne/Puc/v4p6/Plugin/Ui.php:217
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:217
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:217
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:217 update/Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "%s اپ ڈیٹ دستیاب ہیں یہ جانچ نہیں کرسکتے."
+
+#: digadvlogic/Puc/v4p6/Plugin/Ui.php:223
+#: digcountrygateways/Puc/v4p6/Plugin/Ui.php:223
+#: digfilter/Puc/v4p6/Plugin/Ui.php:223 digmergphne/Puc/v4p6/Plugin/Ui.php:223
+#: digoldaccntmr/Puc/v4p6/Plugin/Ui.php:223
+#: digoneclickls/Puc/v4p6/Plugin/Ui.php:223
+#: digpagelock/Puc/v4p6/Plugin/Ui.php:223 update/Puc/v4p6/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "غیر معمولی اپ ڈیٹ کی حیثیت %s"
+
+#: digadvlogic/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digcountrygateways/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digfilter/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digmergphne/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digoldaccntmr/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digoneclickls/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: digpagelock/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+#: update/Puc/v4p6/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "کوئیChangelog  دستیاب نہیں ہے."
+
+#: digadvlogic/digadvlogic.php:93 digit.php:403 digit.php:3798 digit.php:4131
+#: digit.php:4216 digit.php:6117 digit.php:7826
+msgid "Oh Snap!"
+msgstr "اوہ اچانک!"
+
+#: digadvlogic/digadvlogic.php:95
+msgid "Please upload all the required files."
+msgstr "تمام مطلوبہ فائلوں کو اپ لوڈ کریں."
+
+#: digadvlogic/digadvlogic.php:96
+msgid "{{field}} requires minimum of {{no}} files to be uploaded."
+msgstr "{{field}} کو کم از کم {{no}} فائلز کی ضرورت ہے."
+
+#: digadvlogic/digadvlogic.php:97
+msgid "File is being uploaded."
+msgstr "فائل اپ لوڈ کیا جا رہا ہے."
+
+#: digadvlogic/digadvlogic.php:98
+msgid "Do you really want to delete {{file}}. This action can't be reversed."
+msgstr "کیا آپ واقعی ہٹانا چاہتے ہیں{{file}}. یہ عمل الٹ نہیں کیا جا سکتا."
+
+#: digadvlogic/digadvlogic.php:99 digit.php:401 digit.php:993 digit.php:1116
+#: digit.php:1198 digit.php:3601 digit.php:4140 digit.php:4214 digit.php:4796
+#: digit.php:5561 digit.php:5711 digit.php:5814 digit.php:6115 digit.php:8108
+#: digit.php:8144 digmergphne/digmergphne.php:159
+#: includes/woocommerce-registration.php:1087
+msgid "Email"
+msgstr "ای میل"
+
+#: digadvlogic/digadvlogic.php:100 digit.php:402 digit.php:991 digit.php:1114
+#: digit.php:1184 digit.php:1543 digit.php:1545 digit.php:3600 digit.php:4121
+#: digit.php:4215 digit.php:4794 digit.php:5559 digit.php:5709 digit.php:5800
+#: digit.php:6116 digit.php:8109 digit.php:8145 digmergphne/digmergphne.php:160
+#: digoldaccntmr/digoldaccntmr.php:530 digoneclickls/digoneclickls.php:162
+#: includes/bp.php:49 includes/bp.php:109 includes/um.php:107
+#: includes/woocommerce-registration.php:38
+#: includes/woocommerce-registration.php:74
+#: includes/woocommerce-registration.php:246
+#: includes/woocommerce-registration.php:247
+#: includes/woocommerce-registration.php:1140
+#: includes/woocommerce-registration.php:1280
+#: includes/woocommerce-registration.php:1358 includes/wp.php:20
+msgid "Mobile Number"
+msgstr "موبائل نمبر"
+
+#: digadvlogic/digadvlogic.php:101
+msgid "Email/Mobile"
+msgstr "ای میل / موبائل نمبر"
+
+#: digadvlogic/digadvlogic.php:157
+msgid "HTML"
+msgstr "HTML"
+
+#: digadvlogic/digadvlogic.php:167
+msgid "Maximum Upload Size (in MB)"
+msgstr "زیادہ سے زیادہ اپ لوڈ سائز (میگا بائٹس میں)"
+
+#: digadvlogic/digadvlogic.php:175
+#, fuzzy
+msgid "Maximum no of files that can be uploaded"
+msgstr "فائلوں کی زیادہ سے زیادہ کی گنتی"
+
+#: digadvlogic/digadvlogic.php:183
+msgid "Minimum no of files that can be uploaded"
+msgstr "اپ لوڈ کرنے کے لئے فائلوں کی کم از کم شمار"
+
+#: digadvlogic/digadvlogic.php:192
+msgid "Allowed Extensions"
+msgstr "درست فائل ایکسٹنشن"
+
+#: digadvlogic/digadvlogic.php:623
+msgid "You are only allowed to upload a maximum of "
+msgstr "آپ صرف اس تعداد تک اپ لوڈ کرنے کی اجازت ہے."
+
+#: digadvlogic/digadvlogic.php:630
+msgid "You are only allowed to upload a minimum of "
+msgstr "آپ کم از کم اس تعداد تک اپ لوڈ کرنے کی اجازت ہے."
+
+#: digadvlogic/digadvlogic.php:935
+msgid "REGISTRATION FORM LOGIC BUILDER"
+msgstr "رجسٹریشن فارم LOGIC بلڈر"
+
+#: digcountrygateways/digcountrygateways.php:68
+msgid "All Countries"
+msgstr "تمام ممالک"
+
+#: digcountrygateways/digcountrygateways.php:72
+msgid "for"
+msgstr "کے لئے"
+
+#: digcountrygateways/digcountrygateways.php:83
+msgid "Countries"
+msgstr "ممالک"
+
+#: digcountrygateways/digcountrygateways.php:113
+msgid "Add Group"
+msgstr "گروپ میں شامل"
+
+#: digfilter/digfilter.php:93
+msgid "Email Filter"
+msgstr "ای میل فلٹر"
+
+#: digfilter/digfilter.php:99
+msgid "Whitelisted Domains"
+msgstr "وائٹ لسٹ ڈومینز"
+
+#: digfilter/digfilter.php:117
+msgid "Blacklisted Domains"
+msgstr "بلیک لسٹ ڈومینز"
+
+#: digfilter/digfilter.php:135
+msgid "Block Disposable Email Registration"
+msgstr "بلاک ڈسپوزایبل ای میل رجسٹریشن"
+
+#: digfilter/digfilter.php:141 digit.php:3402 digit.php:3412 digit.php:3425
+#: digit.php:3527 digit.php:3585 digit.php:8180 digit.php:8191 digit.php:8217
+#: digit.php:8235 digit.php:8393 digmergphne/digmergphne.php:82
+#: digoldaccntmr/digoldaccntmr.php:106 digoldaccntmr/digoldaccntmr.php:123
+#: digoneclickls/digoneclickls.php:81 digpagelock/digpagelock.php:111
+#: digpagelock/digpagelock.php:128
+msgid "Yes"
+msgstr "جی ہاں"
+
+#: digfilter/digfilter.php:144 digit.php:3403 digit.php:3413 digit.php:3426
+#: digit.php:3528 digit.php:3587 digit.php:3799 digit.php:7827 digit.php:8181
+#: digit.php:8192 digit.php:8218 digit.php:8236 digit.php:8276 digit.php:8394
+#: digmergphne/digmergphne.php:85 digoldaccntmr/digoldaccntmr.php:109
+#: digoldaccntmr/digoldaccntmr.php:126 digoneclickls/digoneclickls.php:84
+#: digpagelock/digpagelock.php:114 digpagelock/digpagelock.php:131
+msgid "No"
+msgstr "نہیں"
+
+#: digfilter/digfilter.php:225
+msgid "We don't allow email addresses from this provider"
+msgstr "یہ ای میل پتہ، کمپنی قابل قبول نہیں ہے"
+
+#: digit.php:65
+msgid "View changelog"
+msgstr "Changelog دیکھیں"
+
+#: digit.php:113
+msgid "+ Add User"
+msgstr "+ صارف شامل کریں"
+
+#: digit.php:117
+msgid "Add new user"
+msgstr "نیا صارف شامل کریں"
+
+#: digit.php:266
+msgid "Create New Customer"
+msgstr "نئے گاہک بنائیں"
+
+#: digit.php:275 digit.php:289
+msgid "Create Customer"
+msgstr "گاہک بنائیں"
+
+#: digit.php:280 includes/register.php:105
+#: includes/woocommerce-registration.php:1008
+msgid "First Name"
+msgstr "پہلا نام"
+
+#: digit.php:283 digit.php:8061 includes/register.php:106
+msgid "Last Name"
+msgstr "والد کا نام"
+
+#: digit.php:286 digit.php:989 digit.php:1112 digit.php:1191 digit.php:1296
+#: digit.php:4067 digit.php:4792 digit.php:5557 digit.php:5707 digit.php:5807
+#: digit.php:5924 includes/woocommerce-registration.php:249
+#: includes/woocommerce-registration.php:250
+#: includes/woocommerce-registration.php:1084 includes/wp.php:374
+msgid "Email/Mobile Number"
+msgstr "ای میل / موبائل نمبر"
+
+#: digit.php:288 digit.php:6012 digoldaccntmr/digoldaccntmr.php:610
+msgid "Cancel"
+msgstr "منسوخ کریں"
+
+#: digit.php:306
+msgid "Enter all fields!"
+msgstr "تمام معلومات درج کریں!"
+
+#: digit.php:307
+msgid "Invalid Email or mobile number!"
+msgstr "غلط ای میل یا موبائل نمبر!"
+
+#: digit.php:308 digit.php:389 digit.php:4142 digit.php:4202 digit.php:4707
+#: digit.php:4713 digit.php:4983 digit.php:5057 digit.php:6103
+#: digoldaccntmr/digoldaccntmr.php:275 includes/login.php:1253
+#: includes/phandler.php:28 includes/register.php:212
+#: includes/woocommerce-registration.php:164
+#: includes/woocommerce-registration.php:168
+#: includes/woocommerce-registration.php:182
+#: includes/woocommerce-registration.php:201
+#: includes/woocommerce-registration.php:203
+#: includes/woocommerce-registration.php:1228
+msgid "Error"
+msgstr "خرابی"
+
+#: digit.php:309
+msgid "Email/Mobile number has already registered"
+msgstr "ای میل / موبائل نمبر پہلے ہی درج کر لیا گیا"
+
+#: digit.php:310
+msgid "User registered successfully"
+msgstr "صارف کا رجسٹریشن کامیاب ہے"
+
+#: digit.php:361 digit.php:4086 digit.php:4174 digit.php:4671 digit.php:4695
+#: digit.php:6076
+msgid "Passwords do not match!"
+msgstr "پاس ورڈ میچ نہیں کرتے!"
+
+#: digit.php:362 digit.php:4087 digit.php:4175 digit.php:6077
+msgid "Please fill all the required details."
+msgstr "تمام مطلوبہ تفصیلات بھریے  براہ مہربانی."
+
+#: digit.php:363 digit.php:4088 digit.php:4176 digit.php:6078
+msgid "Please accept terms & conditions."
+msgstr "شرائط و ضوابط کو قبول کریں."
+
+#: digit.php:365 digit.php:4090 digit.php:4178 digit.php:6080
+msgid "Please enter a stronger password."
+msgstr "ایک مضبوط پاس ورڈ درج کریں."
+
+#: digit.php:380 digit.php:4145 digit.php:4193 digit.php:6094
+msgid "Registration is disabled"
+msgstr "رجسٹریشن غیر فعال ہے"
+
+#: digit.php:381 digit.php:4146 digit.php:4194 digit.php:6095
+#, fuzzy
+msgid "Forgot Password is disabled"
+msgstr "پاسورڈ بھول گے  غیر فعال ہے"
+
+#: digit.php:382 digit.php:4111 digit.php:4195 digit.php:6096
+msgid "Invalid login credentials!"
+msgstr "غلط لاگ ان کی تفصیلات!"
+
+#: digit.php:383 digit.php:4110 digit.php:4196 digit.php:4994 digit.php:6097
+#: includes/register.php:617
+msgid "Invalid API credentials!"
+msgstr "API اکاؤنٹ غلط ہے!"
+
+#: digit.php:384 digit.php:4109 digit.php:4197 digit.php:6098
+msgid "Please signup before logging in."
+msgstr "براہ کرم، سب سے پہلے سائن اپ کے پھر میں لاگ ان کریں."
+
+#: digit.php:385 digit.php:4198 digit.php:6099
+msgid "Please try again!"
+msgstr "دوبارہ کوشش کریں!"
+
+#: digit.php:386 digit.php:4118 digit.php:4199 digit.php:6100
+#: includes/woocommerce-registration.php:365
+#: includes/woocommerce-registration.php:371
+msgid "Invalid Country Code!"
+msgstr "غلط ملک کا کوڈ!"
+
+#: digit.php:387 digit.php:4119 digit.php:4200 digit.php:6101
+msgid "Mobile number not found!"
+msgstr "موبائل نمبر نہیں ملا!"
+
+#: digit.php:388 digit.php:4120 digit.php:4201 digit.php:5033 digit.php:5035
+#: digit.php:6102 includes/woocommerce-registration.php:201
+#: includes/woocommerce-registration.php:203
+#: includes/woocommerce-registration.php:389
+#: includes/woocommerce-registration.php:692
+msgid "Mobile Number already in use!"
+msgstr "موبائل پہلے سے استعمال میں ہے !"
+
+#: digit.php:390 digit.php:4147 digit.php:4203 digit.php:6104
+msgid "This features only works with mobile number"
+msgstr "یہ فعالیت صرف موبائل نمبر کے ساتھ کام کرتا ہے"
+
+#: digit.php:391 digit.php:4122 digit.php:4204 digit.php:6105
+#: includes/woocommerce-registration.php:381
+msgid "Invalid OTP!"
+msgstr "غلط OTP!"
+
+#: digit.php:392 digit.php:3788 digit.php:4124 digit.php:4205 digit.php:6106
+#: digit.php:7816
+msgid "Error! Please try again later"
+msgstr "خرابی! براہ کرم کچھ دیر بعد کوشش کریں"
+
+#: digit.php:393 digit.php:4206 digit.php:6107
+msgid "Password does not match the confirm password!"
+msgstr "پاس ورڈ میچ نہیں کرتے!"
+
+#: digit.php:394 digit.php:4114 digit.php:4207 digit.php:6108
+msgid "Invalid details!"
+msgstr "غلط تفصیلات!"
+
+#: digit.php:395 digit.php:4117 digit.php:4208 digit.php:4878 digit.php:6109
+#: includes/register.php:476
+msgid "Invalid Email!"
+msgstr "غلط ای میل!"
+
+#: digit.php:396 digit.php:4116 digit.php:4209 digit.php:6110
+#: includes/woocommerce-registration.php:164
+#: includes/woocommerce-registration.php:168
+#: includes/woocommerce-registration.php:368
+msgid "Invalid Mobile Number!"
+msgstr "غلط موبائل نمبر!"
+
+#: digit.php:397 digit.php:4210 digit.php:6111
+msgid "Either enter your mobile number or click on sign up with password"
+msgstr ""
+"یا تو آپ کے موبائل نمبر درج کریں یا پاس ورڈ کے ساتھ سائن اپ پر کلک کریں"
+
+#: digit.php:398 digit.php:972 digit.php:1062 digit.php:4211 digit.php:5253
+#: digit.php:5652 digit.php:6112
+msgid "Log In"
+msgstr "لاگ ان کریں"
+
+#: digit.php:399 digit.php:1086 digit.php:4212 digit.php:5678 digit.php:6113
+msgid "Sign Up"
+msgstr "سائن اپ کریں"
+
+#: digit.php:400 digit.php:4213 digit.php:6114
+msgid "Forgot Password"
+msgstr "پاسورڈ بھول گے"
+
+#: digit.php:404 digit.php:4134 digit.php:4217 digit.php:6118
+msgid "Submit"
+msgstr "جمع کرائیں"
+
+#: digit.php:405 digit.php:4144 digit.php:4218 digit.php:6119
+msgid "Submit OTP"
+msgstr "OTP جمع کرائیں"
+
+#: digit.php:580
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: digit.php:995 digit.php:1119 digit.php:1158 digit.php:2011 digit.php:2024
+#: digit.php:4799 digit.php:5563 digit.php:5714 digit.php:5774 digit.php:8143
+msgid "Username"
+msgstr "صارف کا نام"
+
+#: digit.php:1029 digit.php:1242 digit.php:1316 digit.php:1526 digit.php:1554
+#: digit.php:2268 digit.php:4126 digit.php:5621 digit.php:5858 digit.php:5960
+#: digit.php:8110 digoldaccntmr/digoldaccntmr.php:576
+#: digoneclickls/digoneclickls.php:168 includes/bp.php:64 includes/bp.php:122
+#: includes/um.php:134 includes/um.php:168
+#: includes/woocommerce-registration.php:94
+#: includes/woocommerce-registration.php:282
+#: includes/woocommerce-registration.php:286
+#: includes/woocommerce-registration.php:916
+#: includes/woocommerce-registration.php:1052
+#: includes/woocommerce-registration.php:1114
+#: includes/woocommerce-registration.php:1159
+msgid "OTP"
+msgstr "OTP"
+
+#: digit.php:1039 digit.php:1229 digit.php:1327 digit.php:1990 digit.php:2012
+#: digit.php:2025 digit.php:4129 digit.php:5632 digit.php:5845 digit.php:5972
+#: digit.php:8111 digit.php:8146 includes/woocommerce-registration.php:261
+#: includes/woocommerce-registration.php:274
+#: includes/woocommerce-registration.php:1206
+msgid "Password"
+msgstr "پاس ورڈ"
+
+#: digit.php:1068 digit.php:5658
+msgid "Forgot your password?"
+msgstr "اپنا پاس ورڈ بھول گئے ہیں?"
+
+#: digit.php:1078 digit.php:4083 digit.php:5670 includes/um.php:156
+#: includes/woocommerce-registration.php:966
+msgid "Login With OTP"
+msgstr "OTP سے  لاگ ان کریں"
+
+#: digit.php:1079 digit.php:1264 digit.php:1340 digit.php:4127 digit.php:5671
+#: digit.php:5889 digit.php:5984 digoldaccntmr/digoldaccntmr.php:598
+#: digoneclickls/digoneclickls.php:189 includes/bp.php:132 includes/um.php:141
+#: includes/um.php:160 includes/woocommerce-registration.php:973
+#: includes/woocommerce-registration.php:1117
+#: includes/woocommerce-registration.php:1170
+#: includes/woocommerce-registration.php:1188
+msgid "Resend OTP"
+msgstr "دوبارہ بھیجیں OTP"
+
+#: digit.php:1085 digit.php:5677
+msgid "Don't have an account?"
+msgstr "ایک اکاؤنٹ نہیں ہے؟"
+
+#: digit.php:1145 digit.php:5761 digit.php:8142
+msgid "Name"
+msgstr "نام"
+
+#: digit.php:1173 digit.php:1195 digit.php:3800 digit.php:4141 digit.php:5789
+#: digit.php:5811 digit.php:7828 digit.php:8275 digit.php:8496
+#: includes/woocommerce-registration.php:1071
+msgid "Optional"
+msgstr "اختیاری"
+
+#: digit.php:1256 digit.php:5879
+msgid "Signup"
+msgstr "سائن اپ"
+
+#: digit.php:1258 digit.php:5881
+msgid "Signup With OTP"
+msgstr "OTP ساتھ سائن اپ"
+
+#: digit.php:1270 digit.php:1271 digit.php:5895 digit.php:5896
+msgid "Signup With Password"
+msgstr "پاس ورڈ کے ساتھ سائن اپ"
+
+#: digit.php:1278 digit.php:1342 digit.php:5906 digit.php:5988
+msgid "Back to login"
+msgstr "لاگ ان کی طرف لوٹ آئے"
+
+#: digit.php:1333 digit.php:4130 digit.php:5978
+#: includes/woocommerce-registration.php:1210
+msgid "Confirm Password"
+msgstr "پاس ورڈ کی تصدیق کریں"
+
+#: digit.php:1339 digit.php:5983
+msgid "Reset Password"
+msgstr "پاس ورڈ ری سیٹ"
+
+#: digit.php:1445 digit.php:7996 digit.php:8008
+msgid "Login"
+msgstr "لاگ ان کریں"
+
+#: digit.php:1648
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></"
+"div>"
+msgstr ""
+"<div><p><b>مہلک غلطی</b>: Digits  صحیح طریقے سے کام کرنے کے لئے cURL کی "
+"ضرورت ہے. </p></div>"
+
+#: digit.php:1798
+msgid "KNOWLEDGEBASE"
+msgstr "صارفین کے لئے تفصیلی علم"
+
+#: digit.php:1801
+msgid "Addons"
+msgstr "اضافت"
+
+#: digit.php:1802
+msgid "CHANGELOG"
+msgstr "changelog کے."
+
+#: digit.php:1806 digit.php:7991 digit.php:8016
+msgid "Register"
+msgstr "رجسٹر"
+
+#: digit.php:1819
+msgid "Gateway"
+msgstr "گیٹ وے"
+
+#: digit.php:1823
+msgid "General"
+msgstr "جنرل"
+
+#: digit.php:1827
+msgid "Form"
+msgstr "فارم"
+
+#: digit.php:1831
+msgid "Style"
+msgstr "انداز"
+
+#: digit.php:1835
+msgid "Translations"
+msgstr "ترجمے"
+
+#: digit.php:1839 digit.php:7764 digit.php:7853
+msgid "Shortcodes"
+msgstr "کے Shortcodes"
+
+#: digit.php:1893
+msgid "Save Changes"
+msgstr "تبدیلیاں محفوظ کرو"
+
+#: digit.php:1902
+msgid "Select a logo"
+msgstr "ایک لوگو کی تصویر منتخب کریں"
+
+#: digit.php:1903
+msgid "Use this logo"
+msgstr "اس لوگو تصویر کا استعمال کریں"
+
+#: digit.php:1904 digit.php:8697
+msgid "Change Image"
+msgstr "تصویر تبدیل کریں"
+
+#: digit.php:1905 digit.php:8698
+msgid "Select Image"
+msgstr "تصویر منتخب کریں"
+
+#: digit.php:1906 digit.php:2654 digit.php:2697 digit.php:2801 digit.php:3077
+#: digit.php:3118 digit.php:8699
+msgid "Remove Image"
+msgstr "تصویر ہٹائیں"
+
+#: digit.php:1980 digit.php:1989
+msgid "Access Key"
+msgstr "داخلہ چابی "
+
+#: digit.php:1981
+msgid "Access Secret"
+msgstr "سیکرٹ حاصل"
+
+#: digit.php:1982 digit.php:1985 digit.php:1986 digit.php:1987 digit.php:1991
+#: digit.php:1993 digit.php:2013 digit.php:2026
+msgid "From"
+msgstr "سے"
+
+#: digit.php:1985 digit.php:1986 digit.php:1988 digit.php:1991 digit.php:1995
+#: digit.php:2004 digit.php:2019 digit.php:2208 digit.php:2212
+msgid "API Key"
+msgstr "API Key"
+
+#: digit.php:1986
+msgid "API Username"
+msgstr "API صارف کا نام"
+
+#: digit.php:1987
+msgid "ClockWork API"
+msgstr "ClockWork API"
+
+#: digit.php:1988 digit.php:2009 digit.php:2158 digit.php:2162 digit.php:2195
+#: digit.php:2199
+msgid "Sender ID"
+msgstr "Sender ID"
+
+#: digit.php:1989
+msgid "Originator"
+msgstr "مرسل"
+
+#: digit.php:1990
+msgid "Mobile"
+msgstr "موبائل"
+
+#: digit.php:1990 digit.php:1992 digit.php:2005
+msgid "Sender"
+msgstr "مرسل"
+
+#: digit.php:1991 digit.php:2020
+msgid "API Secret"
+msgstr "API Secret"
+
+#: digit.php:1992
+msgid "Auth ID"
+msgstr "Auth ID"
+
+#: digit.php:1992 digit.php:2148 digit.php:2152
+msgid "Auth Token"
+msgstr "Auth Token"
+
+#: digit.php:1993
+msgid "Token"
+msgstr "Token"
+
+#: digit.php:1996
+msgid "Auth Domain"
+msgstr "Auth Domain"
+
+#: digit.php:1997
+msgid "Database URL"
+msgstr "Database URL"
+
+#: digit.php:1998
+msgid "Project ID"
+msgstr "Project ID"
+
+#: digit.php:1999
+msgid "Storage Bucket"
+msgstr "Storage Bucket"
+
+#: digit.php:2000
+msgid "Messaging Sender ID"
+msgstr "ID پیغام رسانی مرسل"
+
+#: digit.php:2008
+msgid "AppSid"
+msgstr "AppSid"
+
+#: digit.php:2099 digit.php:2102
+msgid "App ID"
+msgstr "App ID"
+
+#: digit.php:2109
+msgid "AccountKit App Secret"
+msgstr "AccountKit App Secret"
+
+#: digit.php:2113
+msgid "App Secret"
+msgstr "App Secret"
+
+#: digit.php:2120
+msgid "Type"
+msgstr "قسم"
+
+#: digit.php:2123 digit.php:2609 digit.php:3053 digpagelock/digpagelock.php:144
+#: digpagelock/digpagelock.php:385
+msgid "Modal"
+msgstr "موڈل"
+
+#: digit.php:2124
+msgid "Popup"
+msgstr "پاپ اپ"
+
+#: digit.php:2128
+msgid ""
+"Only use Popup if your website is non https:// otherwise we highly recommend "
+"using modal."
+msgstr ""
+"آپ کی ویب سائٹ غیر HTTPS ہے تو صرف پاپ اپ کا استعمال کرتے ہیں: // دوسری صورت "
+"میں ہم انتہائی موڈل کا استعمال کرتے ہوئے مشورہ دیتے ہیں."
+
+#: digit.php:2137 digit.php:2141
+msgid "Account SID"
+msgstr "Account SID"
+
+#: digit.php:2169 digit.php:2173
+msgid "Authentication Key"
+msgstr "توثیق Key"
+
+#: digit.php:2179
+msgid "ROUTE"
+msgstr "ROUTE"
+
+#: digit.php:2182
+msgid "SendOTP"
+msgstr "SendOTP"
+
+#: digit.php:2183
+msgid "Transactional"
+msgstr "ٹرانزیکشنل"
+
+#: digit.php:2213
+msgid ""
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with %OTP% otherwise messages will not be sent."
+msgstr ""
+"ابھی٪ OTP فیصد # کوڈ # دوسری صورت پیغامات بھیجے نہیں کیا جائے گا کی جگہ لے "
+"لے، Yunpian پر ایک کی طرح اس پیغام کے سانچے رکھو."
+
+#: digit.php:2262
+msgid "Message Template"
+msgstr "پیغام سانچہ"
+
+#: digit.php:2268
+msgid "Site Name"
+msgstr "جگہ کا نام"
+
+#: digit.php:2292
+msgid "SMS Gateway"
+msgstr "SMS گیٹ وے"
+
+#: digit.php:2298 digit.php:2301
+msgid "Free"
+msgstr "مفت"
+
+#: digit.php:2328
+#, php-format
+msgid "You should have paid <span>%s</span> plan to use this."
+msgstr ""
+"آپ <مدت> %s  کے </ مدت> اس کا استعمال کرنے کی منصوبہ بندی سے ادا کرنا چاہیے "
+"تھا."
+
+#: digit.php:2343
+msgid "TEST GATEWAY SETTINGS"
+msgstr "ٹیسٹ گیٹ وے ترتیبات"
+
+#: digit.php:2349
+msgid "Your Mobile Number"
+msgstr "آپکا موبائل نمبر"
+
+#: digit.php:2351
+msgid "Test"
+msgstr "توثیق"
+
+#: digit.php:2357
+msgid "Response"
+msgstr "جواب"
+
+#: digit.php:2480
+msgid "PRESET DESIGN"
+msgstr "PRESET DESIGN"
+
+#: digit.php:2485
+msgid "PRESET LIBRARY"
+msgstr "PRESET LIBRARY"
+
+#: digit.php:2486 digit.php:3677 digoldaccntmr/digoldaccntmr.php:240
+msgid "CLOSE"
+msgstr "CLOSE"
+
+#: digit.php:2491 digit.php:2500
+msgid "CUSTOM"
+msgstr "اپنی مرضی کے مطابق"
+
+#: digit.php:2547
+msgid "Preset"
+msgstr "Preset"
+
+#: digit.php:2550
+msgid "Select Preset"
+msgstr "Preset منتخب کریں"
+
+#: digit.php:2578
+msgid "FORM TYPE"
+msgstr "FORM TYPE"
+
+#: digit.php:2581 digit.php:2639 digpagelock/digpagelock.php:143
+#: digpagelock/digpagelock.php:384
+msgid "Page"
+msgstr "صفحہ"
+
+#: digit.php:2644
+msgid "Logo"
+msgstr "لوگو کی تصویر"
+
+#: digit.php:2651 digit.php:2694 digit.php:2798 digit.php:3074 digit.php:3115
+msgid "Select image"
+msgstr "تصویر منتخب کریں"
+
+#: digit.php:2669 digit.php:2710 digit.php:2814 digit.php:3091 digit.php:3131
+#: digit.php:3618 digit.php:3626 digit.php:3636 digit.php:3645
+msgid "URL"
+msgstr "URL"
+
+#: digit.php:2678
+msgid "Login Page Left Background Color"
+msgstr "لاگ ان پیج بائیں پس منظر کا رنگ"
+
+#: digit.php:2687
+msgid "Login Page Left Image"
+msgstr "لاگ ان پیج بائیں تصویر"
+
+#: digit.php:2721 digit.php:3142
+msgid "Login Page Left Background Size"
+msgstr "لاگ ان پیج بائیں پس منظر سائز"
+
+#: digit.php:2739 digit.php:3160
+msgid "Login Page Left Background Position"
+msgstr "لاگ ان پیج بائیں پس منظر کی پوزیشن"
+
+#: digit.php:2759
+msgid "Login Page Footer"
+msgstr "صفحہ فوٹر لاگ ان کریں"
+
+#: digit.php:2771
+msgid "Login Page Footer Text Color"
+msgstr "لاگ ان صفحے کے فوٹر متن کا رنگ"
+
+#: digit.php:2781
+msgid "Login Page Background Color"
+msgstr "لاگ ان پیج پس منظر کا رنگ"
+
+#: digit.php:2791
+msgid "Login Page Background Image"
+msgstr "لاگ ان پیج پس منظر کی تصویر"
+
+#: digit.php:2825
+msgid "Login Box Background Color"
+msgstr "لاگ ان باکس پس منظر کا رنگ"
+
+#: digit.php:2834
+msgid "Login Box Shadow"
+msgstr "باکس شیڈو لاگ ان کریں"
+
+#: digit.php:2841 digit.php:3195
+msgid "X"
+msgstr "X"
+
+#: digit.php:2845 digit.php:3199
+msgid "Y"
+msgstr "Y"
+
+#: digit.php:2849 digit.php:3203
+msgid "Blur"
+msgstr "دھندلاپن"
+
+#: digit.php:2853 digit.php:3209
+msgid "Spread"
+msgstr "پھیلاؤ"
+
+#: digit.php:2864
+msgid "Login Box Shadow Color"
+msgstr "باکس شیڈو رنگ لاگ ان کریں"
+
+#: digit.php:2871
+msgid "Login Box Radius"
+msgstr "باکس رداس لاگ ان کریں"
+
+#: digit.php:2884 digit.php:3240
+msgid "Text and Button Color"
+msgstr "متن اور بٹن کے رنگ"
+
+#: digit.php:2884 digit.php:3240
+msgid "Text Color"
+msgstr "متن کا رنگ"
+
+#: digit.php:2893 digit.php:3249
+msgid "Button Font Color"
+msgstr "بٹن رنگ فانٹ"
+
+#: digit.php:2900
+msgid "Back/Cancel Button Color"
+msgstr "واپس / منسوخ بٹن رنگ"
+
+#: digit.php:2909 digit.php:3258
+msgid "Input Background Color"
+msgstr "ان پٹ پس منظر کا رنگ"
+
+#: digit.php:2916 digit.php:3265
+msgid "Input Border Color"
+msgstr "ان پٹ بارڈر کا رنگ"
+
+#: digit.php:2923 digit.php:3272
+msgid "Input Text Color"
+msgstr "ان پٹ متن کا رنگ"
+
+#: digit.php:2930 digit.php:3279
+msgid "Button Border Color"
+msgstr "بٹن بارڈر کا رنگ"
+
+#: digit.php:2938 digit.php:3287
+msgid "Button Text Color"
+msgstr "بٹن متن کا رنگ"
+
+#: digit.php:2946 digit.php:3295
+msgid "Signup Button Color"
+msgstr "سائن اپ بٹن رنگ"
+
+#: digit.php:2953 digit.php:3302
+msgid "Signup Button Border Color"
+msgstr "سائن اپ بٹن بارڈر کا رنگ"
+
+#: digit.php:2961 digit.php:3310
+msgid "Signup Button Text Color"
+msgstr "سائن اپ بٹن متن کا رنگ"
+
+#: digit.php:3056
+msgid "Modal Overlay Color"
+msgstr "موڈل رنگ چڑھائیں"
+
+#: digit.php:3067
+msgid "Login Modal Background Image"
+msgstr "لاگ ان موڈل پس منظر کی تصویر"
+
+#: digit.php:3101
+msgid "Login Box Left Background Color"
+msgstr "لاگ ان باکس بائیں پس منظر کا رنگ"
+
+#: digit.php:3108
+msgid "Login Box Left Image"
+msgstr "باکس بائیں تصویر لاگ ان کریں"
+
+#: digit.php:3179
+msgid "Login Modal Background Color"
+msgstr "لاگ ان موڈل پس منظر کا رنگ"
+
+#: digit.php:3188
+msgid "Login Modal Shadow"
+msgstr "لاگ ان موڈل شیڈو"
+
+#: digit.php:3218
+msgid "Login Modal Shadow Color"
+msgstr "لاگ ان موڈل سایہ رنگ"
+
+#: digit.php:3226
+msgid "Login Modal Radius"
+msgstr "لاگ ان موڈل رداس"
+
+#: digit.php:3321
+msgid "Advanced Options"
+msgstr "اعلی اختیارات"
+
+#: digit.php:3328
+msgid "Custom CSS"
+msgstr "اپنی مرضی کے مطابق CSS"
+
+#: digit.php:3340 digit.php:7973 digit.php:8621 digit.php:8643 digit.php:8675
+#: digit.php:8733 digit.php:8909
+msgid "Continue"
+msgstr "جاری رہے"
+
+#: digit.php:3343 digit.php:7975 digit.php:8475 digit.php:8623 digit.php:8645
+#: digit.php:8677 digit.php:8735
+msgid "Back"
+msgstr "واپس جاو"
+
+#: digit.php:3384
+msgid "Basic"
+msgstr "بنیادی"
+
+#: digit.php:3388
+msgid "Username Generation"
+msgstr "صارف کا نام جنریشن"
+
+#: digit.php:3391
+msgid "Random Numbers"
+msgstr "رینڈم نمبرز"
+
+#: digit.php:3392
+msgid "From Mobile Number"
+msgstr "موبائل نمبر سے"
+
+#: digit.php:3393
+msgid "From Name"
+msgstr "نام سے"
+
+#: digit.php:3399
+msgid "Enable /wp-login.php Integeration"
+msgstr "Enable /wp-login.php Integeration"
+
+#: digit.php:3409
+msgid "Enable Forgot Password"
+msgstr "Enable پاسورڈ بھول گے"
+
+#: digit.php:3416
+msgid "This function only works on Digits Login/Signup Modal and Page"
+msgstr "یہ تقریب ہی پر ہندسوں لاگ ان / سائن اپ موڈل اور پیج کام کرتا ہے"
+
+#: digit.php:3422
+msgid "Enable Strong Password for Registration"
+msgstr "رجسٹریشن کے لیے مضبوط پاس ورڈ فعال"
+
+#: digit.php:3434
+msgid "Default User Role"
+msgstr "پہلے سے طے شدہ صارف کا کردار"
+
+#: digit.php:3451
+msgid "The default role which will be assigned to new user created."
+msgstr "پہلے سے طے شدہ کردار جس سے پیدا نئے صارف کو تفویض کیا جائے گا."
+
+#: digit.php:3455
+msgid "OTP SMS"
+msgstr "OTP ایس ایم ایس"
+
+#: digit.php:3460
+msgid "Default Country Code"
+msgstr "ملک کا کوڈ طے شدہ"
+
+#: digit.php:3489
+msgid "Country Codes Whitelist"
+msgstr "ملک کوڈز وائٹ لسٹ"
+
+#: digit.php:3510
+msgid ""
+"Sign In/Sign Up will be allowed for phone numbers with these country codes. "
+"To allow Sign In/Sign Up for all country codes, leave this blank."
+msgstr ""
+"/ سائن میں ان کے ملک کے کوڈ کے ساتھ فون نمبر کے لئے اجازت دی جائے گی سائن اپ "
+"کریں. سائن ان کریں اجازت دینے کے لئے / میں تمام ملک کے کوڈ کے لئے سائن اپ "
+"کریں، اس کو خالی چھوڑ دیں."
+
+#: digit.php:3524
+msgid "Hide Country Code"
+msgstr "ملک کا کوڈ چھپائیں"
+
+#: digit.php:3536
+msgid "OTP size"
+msgstr "OTP size"
+
+#: digit.php:3553
+msgid "OTP Resend Time"
+msgstr "OTP Resend Time"
+
+#: digit.php:3558
+msgid "0"
+msgstr "0"
+
+#: digit.php:3559
+msgid "Seconds"
+msgstr "Seconds"
+
+#: digit.php:3577
+msgid "WooCommerce Settings"
+msgstr "WooCommerce ترتیبات"
+
+#: digit.php:3581
+msgid "Create Customer Button"
+msgstr "کسٹمر بٹن بنائیں"
+
+#: digit.php:3590
+msgid "Add customer on Add Order Page on dashboard using Modal"
+msgstr ""
+"موڈل کا استعمال کرتے ہوئے ڈیش بورڈ پر آرڈر پیج میں شامل پر گاہک کا اضافہ کریں"
+
+#: digit.php:3595
+msgid "Required field for billing info"
+msgstr "بلنگ کی معلومات کے لئے مطلوبہ فیلڈ"
+
+#: digit.php:3599
+msgid "Mobile Number and Email"
+msgstr "موبائل نمبر اور ای میل"
+
+#: digit.php:3609
+msgid "Redirection"
+msgstr "نئ سمت"
+
+#: digit.php:3613
+msgid "Login Redirect"
+msgstr "لاگ ان ری"
+
+#: digit.php:3619 digit.php:3627 digit.php:3637 digit.php:3646
+msgid "Leave blank for auto redirect"
+msgstr "آٹو ری لیے خالی چھوڑ دیں"
+
+#: digit.php:3623
+msgid "Register Redirect"
+msgstr "رجسٹر لوٹایا"
+
+#: digit.php:3631
+msgid "Forgot Password Redirect"
+msgstr "پاس ورڈ بھول گیا لوٹایا"
+
+#: digit.php:3641
+msgid "Logout Redirect"
+msgstr "لاگ آؤٹ کریں لوٹایا گیا"
+
+#: digit.php:3647
+msgid "Note:"
+msgstr "نوٹ:"
+
+#: digit.php:3647
+msgid "Redirect settings only works on Digits Login/Signup Modal and Page"
+msgstr "ترتیبات لوٹایا صرف پر ہندسوں لاگ ان / سائن اپ موڈل اور پیج کام کرتا ہے"
+
+#: digit.php:3656
+msgid "Settings Export/Import"
+msgstr "ترتیبات درآمد / برآمد"
+
+#: digit.php:3663
+msgid "Export"
+msgstr "ایکسپورٹ"
+
+#: digit.php:3664
+msgid "Import"
+msgstr "درآمد کریں"
+
+#: digit.php:3673
+msgid "Paste your import code here..."
+msgstr "یہاں اپنے درآمد کوڈ چسپاں کر دیں ..."
+
+#: digit.php:3676 digit.php:7862 digit.php:7872 digit.php:7884 digit.php:7896
+#: digit.php:7908 digit.php:7921 digit.php:7934 digit.php:7947 digit.php:7959
+msgid "Copy"
+msgstr "کاپی"
+
+#: digit.php:3782 digit.php:7810
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page "
+"and Popup"
+msgstr ""
+"نظر تبدیل کرنے کے لئے آپ کا پلگ ان کو چالو کرنے اور آپ لاگ ان پیج اور پاپ اپ "
+"کی براہ مہربانی بلا جھجھک"
+
+#: digit.php:3783 digit.php:7811
+msgid "Oops! You cannot enable email without password for login"
+msgstr "افوہ! آپ لاگ ان کے لئے پاس ورڈ کے بغیر ای میل کے فعال نہیں کر سکتے"
+
+#: digit.php:3784 digit.php:7812
+msgid "Both Password and OTP cannot be disabled"
+msgstr "دونوں پاس ورڈ اور OTP غیر فعال نہیں کیا جا سکتا"
+
+#: digit.php:3785 digit.php:7813 digit.php:8333
+msgid "Select a type"
+msgstr "ایک قسم منتخب کریں"
+
+#: digit.php:3786 digit.php:7814
+msgid "Invalid msg91 sender id!"
+msgstr "غلط msg91 مرسل ID!"
+
+#: digit.php:3787 digit.php:7815
+msgid "Invalid Purchase Code"
+msgstr "غلط خرید کوڈ"
+
+#: digit.php:3789 digit.php:7817
+msgid "Please complete your Settings"
+msgstr "آپ کی ترتیبات کو مکمل کریں"
+
+#: digit.php:3790 digit.php:7818
+msgid "Please complete your API Settings"
+msgstr "اپنے API ترتیبات مکمل کریں"
+
+#: digit.php:3791 digit.php:7819
+msgid "Please complete your Custom Field Settings"
+msgstr "آپ کسٹم فیلڈ ترتیبات مکمل کریں"
+
+#: digit.php:3792 digit.php:7820
+msgid "Copied to clipboard"
+msgstr "Copied to clipboard"
+
+#: digit.php:3795 digit.php:7823
+msgid "Field Already exist"
+msgstr "فیلڈ پہلے سے موجود"
+
+#: digit.php:3796 digit.php:7824
+msgid "Duplicate Value"
+msgstr "ڈوپلیکیٹ ویلیو"
+
+#: digit.php:3801 digit.php:7829 digit.php:8274 digit.php:8498
+msgid "Required"
+msgstr "مطلوب"
+
+#: digit.php:3802 digit.php:7830
+msgid "Please enter a valid mobile number"
+msgstr "ایک درست موبائل نمبر درج کریں"
+
+#: digit.php:3803 digit.php:7831
+msgid "Please enter a valid import code"
+msgstr "ایک درست درآمد کوڈ داخل کریں"
+
+#: digit.php:4113
+msgid "Register With Password"
+msgstr "پاس ورڈ کے ساتھ رجسٹر"
+
+#: digit.php:4115
+msgid "Invalid Password"
+msgstr "غلط پاسورڈ"
+
+#: digit.php:4123 includes/register.php:797
+msgid "Please try again"
+msgstr "دوبارہ کوشش کریں"
+
+#: digit.php:4125
+msgid "Username/Mobile Number"
+msgstr "صارف کا نام / موبائل نمبر"
+
+#: digit.php:4132
+msgid "Please enter your Mobile Number/Email"
+msgstr "آپ کا موبائل نمبر / ای میل درج کریں"
+
+#: digit.php:4133
+msgid "Either enter your Mobile Number or use Password!"
+msgstr "یا تو آپ کے موبائل نمبر درج کریں یا پاس ورڈ استعمال کرتے ہیں!"
+
+#: digit.php:4136
+msgid "SIGN UP WITH PASSWORD"
+msgstr "پاس ورڈ کے ساتھ سائن اپ کریں"
+
+#: digit.php:4137
+msgid "SIGN UP WITH OTP"
+msgstr "OTP کے ساتھ سائن اپ"
+
+#: digit.php:4138
+msgid "SIGN UP"
+msgstr "سائن اپ"
+
+#: digit.php:4139 includes/um.php:155 includes/woocommerce-registration.php:958
+msgid "OR"
+msgstr "یا"
+
+#: digit.php:4422 includes/register.php:336 includes/register.php:341
+msgid "Invalid Credentials!"
+msgstr "جعلی اسناد!"
+
+#: digit.php:4434 includes/register.php:266
+msgid "Please enter a valid captcha"
+msgstr "ایک درست کیپچا درج کریں"
+
+#: digit.php:4555
+msgid "The email could not be sent."
+msgstr "ای میل بھیجا نہیں جا سکا."
+
+#: digit.php:4555
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "ممکنہ وجہ: اپنے میزبان میل () تقریب غیر فعال کر دیا گیا ہو."
+
+#: digit.php:4560
+msgid ""
+"Your password reset link appears to be expired or invalid. Please request a "
+"new link."
+msgstr ""
+"آپ کا پاس ورڈ دوبارہ ترتیب دینے کی لنک کی میعاد ختم یا غلط لگتا ہے. ایک نیا "
+"لنک کی درخواست کریں."
+
+#: digit.php:4617
+msgid ""
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+"ایک پاس ورڈ دوبارہ ترتیب دینے کا ای میل ای میل ایڈریس پر بھیج دیا گیا ہے، "
+"لیکن آپ کے ان باکس میں ظاہر کرنے میں کئی منٹ لگ سکتے ہیں. ایک اور ری سیٹ "
+"کوشش کرنے سے پہلے کم از کم 10 منٹ انتظار کریں."
+
+#: digit.php:4619
+msgid "Invalid e-mail!"
+msgstr "غلط ای میل!"
+
+#: digit.php:4673
+msgid "Please use a stronger password!"
+msgstr "ایک مضبوط پاس ورڈ استعمال کریں!"
+
+#: digit.php:4755
+msgid "Password changed successfully."
+msgstr "پاس ورڈ کامیابی سے بدل دیا."
+
+#: digit.php:4759
+msgid "Error! User not found."
+msgstr "خرابی! صارف نہیں ملا."
+
+#: digit.php:4822 includes/register.php:435
+msgid "Invalid Name!"
+msgstr "غلط نام!"
+
+#: digit.php:4826 digit.php:5083
+msgid "Invalid Username!"
+msgstr "غلط صارف نام!"
+
+#: digit.php:4833 digit.php:4836
+msgid "Invalid Password!"
+msgstr "غلط پاسورڈ!"
+
+#: digit.php:4848 digit.php:4853 digit.php:4870 includes/register.php:448
+#: includes/register.php:452 includes/register.php:468
+#: includes/woocommerce-registration.php:345
+msgid "Please enter a valid Mobile Number!"
+msgstr "ایک درست موبائل نمبر درج کریں!"
+
+#: digit.php:4860 digit.php:4864 includes/register.php:458
+#: includes/register.php:462 includes/woocommerce-registration.php:348
+msgid "Please enter a valid Email!"
+msgstr "ایک درست ای میل درج کریں!"
+
+#: digit.php:4874 includes/register.php:472
+msgid "Invalid Email or Mobile Number"
+msgstr "غلط ای میل یا موبائل نمبر"
+
+#: digit.php:4881 includes/register.php:479
+#: includes/woocommerce-registration.php:710
+msgid "Email already in use!"
+msgstr "ای میل پہلے سے استعمال میں ہے!"
+
+#: digit.php:4912 digit.php:5040 includes/register.php:667
+msgid "Error while generating username!"
+msgstr "یوزر نیم پیدا ہوئے خرابی!"
+
+#: digit.php:4918 digit.php:5024 includes/register.php:535
+#: includes/register.php:659 includes/register.php:672
+#: includes/register.php:674 includes/um.php:29 includes/um.php:31
+msgid "Mobile number already in use!"
+msgstr "پہلے سے استعمال میں موبائل نمبر!"
+
+#: digit.php:4957 includes/login.php:259 includes/register.php:498
+#: includes/woocommerce-registration.php:480 includes/wp.php:200
+msgid "Username is already in use!"
+msgstr "صارف کا نام پہلے سے استعمال میں ہے!"
+
+#: digit.php:5037 includes/login.php:1243
+msgid "Invalid Mobile Number"
+msgstr "ناقص موبائل نمبر"
+
+#: digit.php:5068 includes/login.php:280 includes/login.php:285
+#: includes/register.php:707
+msgid "Email is already in use!"
+msgstr "ای - میل پہلے سے زیر استعمال ہے!"
+
+#: digit.php:5520
+msgid "BACK"
+msgstr "واپس جاو"
+
+#: digit.php:6407
+msgid "Please fill all the required details!"
+msgstr "تمام مطلوبہ تفصیلات کو بھرنے براہ مہربانی!"
+
+#: digit.php:6415
+msgid "Please enter a valid Captcha!"
+msgstr "ایک درست Captcha درج کریں!"
+
+#: digit.php:6421
+msgid "Please accept terms and condition!"
+msgstr "شرائط و شرط قبول کریں!"
+
+#: digit.php:6434 digit.php:6443 digit.php:6447
+msgid "Please select a valid option!"
+msgstr "ایک درست آپشن کا انتخاب کریں!"
+
+#: digit.php:6482 digit.php:8087 digit.php:8113
+msgid "Captcha"
+msgstr "Captcha"
+
+#: digit.php:6644 digit.php:6676
+msgid "Nothing"
+msgstr "کچھ بھی نہیں"
+
+#: digit.php:6828
+msgid "Afghanistan"
+msgstr "افغانستان"
+
+#: digit.php:6828
+msgid "Albania"
+msgstr "البنيا"
+
+#: digit.php:6828
+msgid "Algeria"
+msgstr "الجيريا"
+
+#: digit.php:6828
+msgid "American Samoa"
+msgstr "امریکن ساموآ"
+
+#: digit.php:6828
+msgid "Andorra"
+msgstr "انڈورا"
+
+#: digit.php:6828
+msgid "Angola"
+msgstr "انگولا"
+
+#: digit.php:6828
+msgid "Anguilla"
+msgstr "انگویلا"
+
+#: digit.php:6828
+msgid "Antigua"
+msgstr "انٹیگا"
+
+#: digit.php:6828
+msgid "Argentina"
+msgstr "ارجنٹائن"
+
+#: digit.php:6828
+msgid "Armenia"
+msgstr "ارمینیا"
+
+#: digit.php:6828
+msgid "Aruba"
+msgstr "اروبا"
+
+#: digit.php:6828
+msgid "Australia"
+msgstr "آسٹریلیا"
+
+#: digit.php:6828
+msgid "Austria"
+msgstr "آسٹریا"
+
+#: digit.php:6828
+msgid "Azerbaijan"
+msgstr "آذربائیجان"
+
+#: digit.php:6828
+msgid "Bahrain"
+msgstr "بحرین"
+
+#: digit.php:6828
+msgid "Bangladesh"
+msgstr "بنگلہ دیش"
+
+#: digit.php:6828
+msgid "Barbados"
+msgstr "بارباڈوس"
+
+#: digit.php:6828
+msgid "Belarus"
+msgstr "بیلارس"
+
+#: digit.php:6828
+msgid "Belgium"
+msgstr "بیلجیم"
+
+#: digit.php:6828
+msgid "Belize"
+msgstr "بیلیز"
+
+#: digit.php:6828
+msgid "Benin"
+msgstr "بینین"
+
+#: digit.php:6828
+msgid "Bermuda"
+msgstr "برمودہ"
+
+#: digit.php:6828
+msgid "Bhutan"
+msgstr "بھوٹان"
+
+#: digit.php:6828
+msgid "Bolivia"
+msgstr "بولیویا"
+
+#: digit.php:6828
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr "مشرقی ایشیاء اور صبا"
+
+#: digit.php:6828
+msgid "Bosnia and Herzegovina"
+msgstr "بوسنیا اور ہرزیگوینا"
+
+#: digit.php:6828
+msgid "Botswana"
+msgstr "بوٹسوانا"
+
+#: digit.php:6828
+msgid "Brazil"
+msgstr "برازیل"
+
+#: digit.php:6828
+msgid "British Indian Ocean Territory"
+msgstr "بحرھند کا برٹش علاقہ"
+
+#: digit.php:6828
+msgid "British Virgin Islands"
+msgstr "برطانوی ورجن جزائر"
+
+#: digit.php:6828
+msgid "Brunei"
+msgstr "برونائی"
+
+#: digit.php:6828
+msgid "Bulgaria"
+msgstr "بلغاریہ"
+
+#: digit.php:6828
+msgid "Burkina Faso"
+msgstr "برکینا فاسو"
+
+#: digit.php:6828
+msgid "Burundi"
+msgstr "برونڈی"
+
+#: digit.php:6828
+msgid "Cambodia"
+msgstr "کمبوڈیا"
+
+#: digit.php:6828
+msgid "Cameroon"
+msgstr "کیمرون"
+
+#: digit.php:6828
+msgid "Canada"
+msgstr "کینیڈا"
+
+#: digit.php:6828
+msgid "Cape Verde"
+msgstr "کیپ وردے"
+
+#: digit.php:6828
+msgid "Cayman Islands"
+msgstr "Cayman Islands"
+
+#: digit.php:6828
+msgid "Central African Republic"
+msgstr "مرکزی افریقی جمہوریت"
+
+#: digit.php:6828
+msgid "Chad"
+msgstr "چاڈ"
+
+#: digit.php:6828
+msgid "Chile"
+msgstr "چلی"
+
+#: digit.php:6828
+msgid "China"
+msgstr "چین"
+
+#: digit.php:6828
+msgid "Colombia"
+msgstr "کولمبیا"
+
+#: digit.php:6828
+msgid "Comoros"
+msgstr "کوموروس"
+
+#: digit.php:6828
+msgid "Cook Islands"
+msgstr "کوک آیلینڈ"
+
+#: digit.php:6828
+msgid "Costa Rica"
+msgstr "کوسٹا ریکا"
+
+#: digit.php:6828
+msgid "Côte d'Ivoire"
+msgstr "آئیوری کوسٹ"
+
+#: digit.php:6828
+msgid "Croatia"
+msgstr "کروایشیا"
+
+#: digit.php:6828
+msgid "Cuba"
+msgstr "کیوبا"
+
+#: digit.php:6828
+msgid "Curaçao"
+msgstr "کیوراساؤ"
+
+#: digit.php:6828
+msgid "Cyprus"
+msgstr "قبرص"
+
+#: digit.php:6828
+msgid "Czech Republic"
+msgstr "جمہوریہ چیک"
+
+#: digit.php:6828
+msgid "Democratic Republic of the Congo"
+msgstr "جمہوریہ کانگو"
+
+#: digit.php:6828
+msgid "Denmark"
+msgstr "ڈنمارک"
+
+#: digit.php:6828
+msgid "Djibouti"
+msgstr "جبوتی"
+
+#: digit.php:6828
+msgid "Dominica"
+msgstr "ڈومینیکا"
+
+#: digit.php:6828
+msgid "Dominican Republic"
+msgstr "ڈومینیکن ریپبلک"
+
+#: digit.php:6828
+msgid "Ecuador"
+msgstr "ایکواڈور"
+
+#: digit.php:6828
+msgid "Egypt"
+msgstr "مصر"
+
+#: digit.php:6828
+msgid "El Salvador"
+msgstr "ال سلواڈور"
+
+#: digit.php:6828
+msgid "Equatorial Guinea"
+msgstr "استوائی گنی"
+
+#: digit.php:6828
+msgid "Eritrea"
+msgstr "اریٹریا"
+
+#: digit.php:6828
+msgid "Estonia"
+msgstr "ایسٹونیا"
+
+#: digit.php:6828
+msgid "Ethiopia"
+msgstr "ایتھوپیا"
+
+#: digit.php:6828
+msgid "Falkland Islands"
+msgstr "جزائر فاک لینڈ"
+
+#: digit.php:6828
+msgid "Faroe Islands"
+msgstr "جزائرفارو"
+
+#: digit.php:6828
+msgid "Federated States of Micronesia"
+msgstr "مائکرونیزیا کے وفاقی ریاستوں"
+
+#: digit.php:6828
+msgid "Fiji"
+msgstr "فیجی"
+
+#: digit.php:6828
+msgid "Finland"
+msgstr "فن لینڈ"
+
+#: digit.php:6828
+msgid "France"
+msgstr "فرانس"
+
+#: digit.php:6828
+msgid "French Guiana"
+msgstr "فرانسیسی گیانا"
+
+#: digit.php:6828
+msgid "French Polynesia"
+msgstr "فرانسیسی پولینیشیا"
+
+#: digit.php:6828
+msgid "Gabon"
+msgstr "گبون"
+
+#: digit.php:6828
+msgid "Georgia"
+msgstr "جارجیا"
+
+#: digit.php:6828
+msgid "Germany"
+msgstr "جرمنی"
+
+#: digit.php:6828
+msgid "Ghana"
+msgstr "گھانا"
+
+#: digit.php:6828
+msgid "Gibraltar"
+msgstr "جبرالٹر"
+
+#: digit.php:6828
+msgid "Greece"
+msgstr "یونان"
+
+#: digit.php:6828
+msgid "Greenland"
+msgstr "گرین لینڈ"
+
+#: digit.php:6828
+msgid "Grenada"
+msgstr "گریناڈا"
+
+#: digit.php:6828
+msgid "Guadeloupe"
+msgstr "گواڈیلوپ"
+
+#: digit.php:6828
+msgid "Guam"
+msgstr "گوام"
+
+#: digit.php:6828
+msgid "Guatemala"
+msgstr "گوئٹے مالا"
+
+#: digit.php:6828
+msgid "Guernsey"
+msgstr "گورنسی"
+
+#: digit.php:6828
+msgid "Guinea"
+msgstr "گینی"
+
+#: digit.php:6828
+msgid "Guinea-Bissau"
+msgstr "گنی بساؤ"
+
+#: digit.php:6828
+msgid "Guyana"
+msgstr "گیانا"
+
+#: digit.php:6828
+msgid "Haiti"
+msgstr "ہیٹی"
+
+#: digit.php:6828
+msgid "Honduras"
+msgstr "ہنڈورس"
+
+#: digit.php:6828
+msgid "Hong Kong"
+msgstr "ہانگ کانگ"
+
+#: digit.php:6828
+msgid "Hungary"
+msgstr "ھنگری"
+
+#: digit.php:6828
+msgid "Iceland"
+msgstr "آیس لینڈ"
+
+#: digit.php:6828
+msgid "India"
+msgstr "بھارت"
+
+#: digit.php:6828
+msgid "Indonesia"
+msgstr "انڈونیشیا"
+
+#: digit.php:6828
+msgid "Iran"
+msgstr "ایران"
+
+#: digit.php:6828
+msgid "Iraq"
+msgstr "عراق"
+
+#: digit.php:6828
+msgid "Ireland"
+msgstr "آئرلینڈ"
+
+#: digit.php:6828
+msgid "Isle Of Man"
+msgstr "آئل آف مین"
+
+#: digit.php:6828
+msgid "Israel"
+msgstr "اسرا ییل"
+
+#: digit.php:6828
+msgid "Italy"
+msgstr "اٹلی"
+
+#: digit.php:6828
+msgid "Jamaica"
+msgstr "جمیکا"
+
+#: digit.php:6828
+msgid "Japan"
+msgstr "جاپان"
+
+#: digit.php:6828
+msgid "Jersey"
+msgstr "جرسی"
+
+#: digit.php:6828
+msgid "Jordan"
+msgstr "اردن"
+
+#: digit.php:6828
+msgid "Kazakhstan"
+msgstr "قازقستان"
+
+#: digit.php:6828
+msgid "Kenya"
+msgstr "کینیا"
+
+#: digit.php:6828
+msgid "Kiribati"
+msgstr "کیریباتی"
+
+#: digit.php:6828
+msgid "Kuwait"
+msgstr "کویت"
+
+#: digit.php:6828
+msgid "Kyrgyzstan"
+msgstr "کرغزستان"
+
+#: digit.php:6828
+msgid "Laos"
+msgstr "لاؤس"
+
+#: digit.php:6828
+msgid "Latvia"
+msgstr "لیٹویا"
+
+#: digit.php:6828
+msgid "Lebanon"
+msgstr "کیریباتی"
+
+#: digit.php:6828
+msgid "Lesotho"
+msgstr "لیسوتھو"
+
+#: digit.php:6828
+msgid "Liberia"
+msgstr "لائبیریا"
+
+#: digit.php:6828
+msgid "Libya"
+msgstr "لیبیاجاپان"
+
+#: digit.php:6828
+msgid "Liechtenstein"
+msgstr "لیختینستائن"
+
+#: digit.php:6828
+msgid "Lithuania"
+msgstr "لیتھوینیا"
+
+#: digit.php:6828
+msgid "Luxembourg"
+msgstr "لیگزمبرگ"
+
+#: digit.php:6828
+msgid "Macau"
+msgstr "مکاؤ"
+
+#: digit.php:6828
+msgid "Macedonia"
+msgstr "مقدونیہ"
+
+#: digit.php:6828
+msgid "Madagascar"
+msgstr "مڈغاسکر"
+
+#: digit.php:6828
+msgid "Malawi"
+msgstr "ملاوی"
+
+#: digit.php:6828
+msgid "Malaysia"
+msgstr "ملائشیا"
+
+#: digit.php:6828
+msgid "Maldives"
+msgstr "مالدیپ"
+
+#: digit.php:6828
+msgid "Mali"
+msgstr "مالی"
+
+#: digit.php:6828
+msgid "Malta"
+msgstr "مالٹا"
+
+#: digit.php:6828
+msgid "Marshall Islands"
+msgstr "شمالی ماریانا آئلینڈز"
+
+#: digit.php:6828
+msgid "Martinique"
+msgstr "مارٹنیک"
+
+#: digit.php:6828
+msgid "Mauritania"
+msgstr "موریتانیا"
+
+#: digit.php:6828
+msgid "Mauritius"
+msgstr "ماریشس"
+
+#: digit.php:6828
+msgid "Mayotte"
+msgstr "میوٹ"
+
+#: digit.php:6828
+msgid "Mexico"
+msgstr "میکسیکو"
+
+#: digit.php:6828
+msgid "Moldova"
+msgstr "مالڈووا"
+
+#: digit.php:6828
+msgid "Monaco"
+msgstr "موناکو"
+
+#: digit.php:6828
+msgid "Mongolia"
+msgstr "منگولیا"
+
+#: digit.php:6828
+msgid "Montenegro"
+msgstr "مونٹی نیگرو"
+
+#: digit.php:6828
+msgid "Montserrat"
+msgstr "مانٹسریٹ"
+
+#: digit.php:6828
+msgid "Morocco"
+msgstr "مراکش"
+
+#: digit.php:6828
+msgid "Mozambique"
+msgstr "موزمبیق"
+
+#: digit.php:6828
+msgid "Myanmar"
+msgstr "میانمار"
+
+#: digit.php:6828
+msgid "Namibia"
+msgstr "نامیبیا"
+
+#: digit.php:6828
+msgid "Nauru"
+msgstr "ناورو"
+
+#: digit.php:6828
+msgid "Nepal"
+msgstr "نیپال"
+
+#: digit.php:6828
+msgid "Netherlands"
+msgstr "ہالینڈ"
+
+#: digit.php:6828
+msgid "New Caledonia"
+msgstr "نیو کالیڈونیا"
+
+#: digit.php:6828
+msgid "New Zealand"
+msgstr "نیوزی لینڈ"
+
+#: digit.php:6828
+msgid "Nicaragua"
+msgstr "نکاراگوا"
+
+#: digit.php:6828
+msgid "Niger"
+msgstr "نائجرنائجیریا"
+
+#: digit.php:6828
+msgid "Nigeria"
+msgstr "نائجیریا"
+
+#: digit.php:6828
+msgid "Niue"
+msgstr "نیو"
+
+#: digit.php:6828
+msgid "Norfolk Island"
+msgstr "جزیرہ نورفوک"
+
+#: digit.php:6828
+msgid "North Korea"
+msgstr "شمالی کوریا"
+
+#: digit.php:6828
+msgid "Northern Mariana Islands"
+msgstr "شمالی ماریانا آئلینڈز"
+
+#: digit.php:6828
+msgid "Norway"
+msgstr "ناروے"
+
+#: digit.php:6828
+msgid "Oman"
+msgstr "عمان"
+
+#: digit.php:6828
+msgid "Pakistan"
+msgstr "پاکستان"
+
+#: digit.php:6828
+msgid "Palau"
+msgstr "پلاؤ"
+
+#: digit.php:6828
+msgid "Palestine"
+msgstr "فلسطین"
+
+#: digit.php:6828
+msgid "Panama"
+msgstr "پاناما"
+
+#: digit.php:6828
+msgid "Papua New Guinea"
+msgstr "پاپوا نیو گنی"
+
+#: digit.php:6828
+msgid "Paraguay"
+msgstr "پیراگوئے"
+
+#: digit.php:6828
+msgid "Peru"
+msgstr "پیرو"
+
+#: digit.php:6828
+msgid "Philippines"
+msgstr "فلپائن"
+
+#: digit.php:6828
+msgid "Poland"
+msgstr "پولینڈ"
+
+#: digit.php:6828
+msgid "Portugal"
+msgstr "پرتگال"
+
+#: digit.php:6828
+msgid "Puerto Rico"
+msgstr "پورٹو ریکو"
+
+#: digit.php:6828
+msgid "Qatar"
+msgstr "قطر"
+
+#: digit.php:6828
+msgid "Republic of the Congo"
+msgstr "جمہوریہ کانگو"
+
+#: digit.php:6828
+msgid "Romania"
+msgstr "رومانیہ"
+
+#: digit.php:6828
+msgid "Runion"
+msgstr "رونیوں"
+
+#: digit.php:6828
+msgid "Russia"
+msgstr "روس"
+
+#: digit.php:6828
+msgid "Rwanda"
+msgstr "روانڈا"
+
+#: digit.php:6828
+msgid "Saint Helena"
+msgstr "سینٹ ہلینا"
+
+#: digit.php:6828
+msgid "Saint Kitts and Nevis"
+msgstr "سینٹ کٹس اور نیوس"
+
+#: digit.php:6828
+msgid "Saint Pierre and Miquelon"
+msgstr "سینٹ ہلینا"
+
+#: digit.php:6828
+msgid "Saint Vincent and the Grenadines"
+msgstr "سینٹ ہلینا"
+
+#: digit.php:6828
+msgid "Samoa"
+msgstr "ساموآ"
+
+#: digit.php:6828
+msgid "San Marino"
+msgstr "سین مرینو"
+
+#: digit.php:6828
+msgid "Sao Tome and Principe"
+msgstr "ساؤ ٹوم اور پرنسپے"
+
+#: digit.php:6828
+msgid "Saudi Arabia"
+msgstr "سعودی عرب"
+
+#: digit.php:6828
+msgid "Senegal"
+msgstr "سنیگال"
+
+#: digit.php:6828
+msgid "Serbia"
+msgstr "سربیا"
+
+#: digit.php:6828
+msgid "Seychelles"
+msgstr "سے شلز"
+
+#: digit.php:6828
+msgid "Sierra Leone"
+msgstr "سیرا لیون"
+
+#: digit.php:6828
+msgid "Singapore"
+msgstr "سنگاپور"
+
+#: digit.php:6828
+msgid "Sint Maarten"
+msgstr "سنٹ مارٹن"
+
+#: digit.php:6828
+msgid "Slovakia"
+msgstr "سلواکیا"
+
+#: digit.php:6828
+msgid "Slovenia"
+msgstr "سلوینیا"
+
+#: digit.php:6828
+msgid "Solomon Islands"
+msgstr "سولومن جزائر"
+
+#: digit.php:6828
+msgid "Somalia"
+msgstr "صومالیہ"
+
+#: digit.php:6828
+msgid "South Africa"
+msgstr "جنوبی افریقہ"
+
+#: digit.php:6828
+msgid "South Korea"
+msgstr "جنوبی کوریا"
+
+#: digit.php:6828
+msgid "South Sudan"
+msgstr "جنوبی سوڈان"
+
+#: digit.php:6828
+msgid "Spain"
+msgstr "اسپین"
+
+#: digit.php:6828
+msgid "Sri Lanka"
+msgstr "سری لنکا"
+
+#: digit.php:6828
+msgid "St. Lucia"
+msgstr "سینٹ لوسیا"
+
+#: digit.php:6828
+msgid "Sudan"
+msgstr "سوڈان"
+
+#: digit.php:6828
+msgid "Suriname"
+msgstr "سرینام"
+
+#: digit.php:6828
+msgid "Swaziland"
+msgstr "سوازیلینڈ"
+
+#: digit.php:6828
+msgid "Sweden"
+msgstr "سویڈن"
+
+#: digit.php:6828
+msgid "Switzerland"
+msgstr "سوئٹزر لینڈ"
+
+#: digit.php:6828
+msgid "Syria"
+msgstr "شام"
+
+#: digit.php:6828
+msgid "Taiwan"
+msgstr "تائیوان"
+
+#: digit.php:6828
+msgid "Tajikistan"
+msgstr "تاجکستان"
+
+#: digit.php:6828
+msgid "Tanzania"
+msgstr "تنزانیہ"
+
+#: digit.php:6828
+msgid "Thailand"
+msgstr "تنزانیہ"
+
+#: digit.php:6828
+msgid "The Bahamas"
+msgstr "بہاماز"
+
+#: digit.php:6828
+msgid "The Gambia"
+msgstr "گیمبیا"
+
+#: digit.php:6828
+msgid "Timor-Leste"
+msgstr "ٹیمور لیسٹی"
+
+#: digit.php:6828
+msgid "Togo"
+msgstr "ٹوگو "
+
+#: digit.php:6828
+msgid "Tokelau"
+msgstr "ٹوکیلاؤ"
+
+#: digit.php:6828
+msgid "Tonga"
+msgstr "ٹونگا"
+
+#: digit.php:6828
+msgid "Trinidad and Tobago"
+msgstr "ٹرینیڈاڈ اور ٹوباگو"
+
+#: digit.php:6828
+msgid "Tunisia"
+msgstr "تیونس"
+
+#: digit.php:6828
+msgid "Turkey"
+msgstr "ترکی"
+
+#: digit.php:6828
+msgid "Turkmenistan"
+msgstr "ترکمانستان"
+
+#: digit.php:6828
+msgid "Turks and Caicos Islands"
+msgstr "جزائر کیکس اور ترکیہ"
+
+#: digit.php:6828
+msgid "Tuvalu"
+msgstr "تووالو"
+
+#: digit.php:6828
+msgid "U.S. Virgin Islands"
+msgstr "امریکی ورجن جزیرے"
+
+#: digit.php:6828
+msgid "Uganda"
+msgstr "یوگنڈا"
+
+#: digit.php:6828
+msgid "Ukraine"
+msgstr "یوکرین"
+
+#: digit.php:6828
+msgid "United Arab Emirates"
+msgstr "متحدہ عرب امارات"
+
+#: digit.php:6828
+msgid "United Kingdom"
+msgstr "متحدہ سلطنت یونائیٹڈ کنگڈم"
+
+#: digit.php:6828
+msgid "United States"
+msgstr "امریکہ"
+
+#: digit.php:6828
+msgid "Uruguay"
+msgstr "یوروگوئے"
+
+#: digit.php:6828
+msgid "Uzbekistan"
+msgstr "ازبکستان"
+
+#: digit.php:6828
+msgid "Vanuatu"
+msgstr "وانواتو"
+
+#: digit.php:6828
+msgid "Venezuela"
+msgstr "وینیزویلا"
+
+#: digit.php:6828
+msgid "Vietnam"
+msgstr "ویتنام"
+
+#: digit.php:6828
+msgid "Wallis and Futuna"
+msgstr "والس اور فتونہ"
+
+#: digit.php:6828
+msgid "Western Sahara"
+msgstr "مغربی صحارا"
+
+#: digit.php:6828
+msgid "Yemen"
+msgstr "یمن"
+
+#: digit.php:6828
+msgid "Zambia"
+msgstr "زامبیا"
+
+#: digit.php:6828
+msgid "Zimbabwe"
+msgstr "زمبابوے"
+
+#: digit.php:7716
+msgid "Setup"
+msgstr "سیٹ اپ"
+
+#: digit.php:7748
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: digit.php:7752
+msgid "Activation"
+msgstr "چالو کرنے کی"
+
+#: digit.php:7756
+msgid "Docs"
+msgstr "دستاویزات"
+
+#: digit.php:7760 digit.php:8723
+msgid "API Settings"
+msgstr "API کی سیٹنگ"
+
+#: digit.php:7768
+msgid "Ready"
+msgstr "تیار"
+
+#: digit.php:7858 includes/wcs.php:312
+msgid "Login/Signup Page"
+msgstr "لاگ ان / سائن اپ صفحہ"
+
+#: digit.php:7868 includes/wcs.php:313
+msgid "Login/Signup Modal"
+msgstr "لاگ ان / سائن اپ موڈل"
+
+#: digit.php:7880 includes/wcs.php:314
+msgid "Login Page"
+msgstr "پیج لاگ ان"
+
+#: digit.php:7891 includes/wcs.php:315
+msgid "Login Modal"
+msgstr "لاگ ان موڈل"
+
+#: digit.php:7903
+msgid "Sign Up Page"
+msgstr "سائن اپ صفحہ"
+
+#: digit.php:7916
+msgid "Sign Up Modal"
+msgstr "سائن اپ موڈل"
+
+#: digit.php:7929 includes/wcs.php:318
+msgid "Forgot Password Page"
+msgstr "پاس ورڈ بھول گیا صفحہ"
+
+#: digit.php:7942 includes/wcs.php:319
+msgid "Forgot Password Modal"
+msgstr "پاس ورڈ بھول گیا موڈل"
+
+#: digit.php:7954
+msgid "Logout Shortcode"
+msgstr "لاگ آؤٹ کریں مختصر"
+
+#: digit.php:7987
+msgid "Menu Items"
+msgstr "مینو آئٹمز"
+
+#: digit.php:7990 digit.php:8000 digoneclickls/digoneclickls.php:149
+msgid "Login / Register"
+msgstr "لاگ ان / رجسٹر"
+
+#: digit.php:7992
+msgid "Forgot your Password?"
+msgstr "آپ پاسورڈ بھول گئے ہیں؟"
+
+#: digit.php:7993 digit.php:8033
+msgid "My Account"
+msgstr "میرا اکاونٹ"
+
+#: digit.php:7994 digit.php:8041 includes/wcs.php:320
+msgid "Logout"
+msgstr "لاگ آوٹ"
+
+#: digit.php:8025
+msgid "Forgot"
+msgstr "بھول"
+
+#: digit.php:8053
+msgid ""
+"Transation of whole plugin can be done through POT file present in the "
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use Loco "
+"Translate WordPress plugin."
+msgstr ""
+"پورے پلگ ان کی transation کے پلگ ان زبانوں کے فولڈر میں برتن فائل موجود کے "
+"ذریعے کیا جا سکتا ہے. آپ اس پلگ ان کی زبانوں فولڈر میں MO اور PO فائلوں کو "
+"اپ لوڈ کرنا ہوگا. ترجمہ کرنے کے لئے سب سے آسان طریقہ لوکو ترجمہ کریں ورڈپریس "
+"پلگ ان کا استعمال کرتے ہیں کے لئے ہے."
+
+#: digit.php:8062 digit.php:8088
+msgid "User Role"
+msgstr "صارف کا کردار"
+
+#: digit.php:8063
+msgid "Display Name"
+msgstr "ڈسپلے نام"
+
+#: digit.php:8064
+msgid "Company"
+msgstr "کمپنی"
+
+#: digit.php:8065
+msgid "Address Line 1"
+msgstr "پتہ لائن 1"
+
+#: digit.php:8066
+msgid "Address Line 2"
+msgstr "پتہ لائن 2"
+
+#: digit.php:8067
+msgid "City"
+msgstr "شہر"
+
+#: digit.php:8068
+msgid "State"
+msgstr "ریاست یا صوبہ"
+
+#: digit.php:8069
+msgid "Country"
+msgstr "ملک"
+
+#: digit.php:8070
+msgid "Postcode / ZIP"
+msgstr "پوسٹ کوڈ / زپ"
+
+#: digit.php:8080
+msgid "Text"
+msgstr "Text"
+
+#: digit.php:8081
+msgid "TextArea"
+msgstr "TextArea"
+
+#: digit.php:8082
+msgid "Number"
+msgstr "Number"
+
+#: digit.php:8083
+msgid "DropDown"
+msgstr "DropDown"
+
+#: digit.php:8084
+msgid "CheckBox"
+msgstr "CheckBox"
+
+#: digit.php:8085
+msgid "Radio"
+msgstr "Radio"
+
+#: digit.php:8086
+msgid "Terms &, Conditions"
+msgstr "شرائط و ضوابط"
+
+#: digit.php:8089
+msgid "Date"
+msgstr "تاریخ"
+
+#: digit.php:8177
+msgid "Enable Registration"
+msgstr "رجسٹریشن فعال کریں"
+
+#: digit.php:8188
+msgid "Show asterisk (*) on required fields"
+msgstr "نشان دکھائیں (*) مطلوبہ شعبوں پر"
+
+#: digit.php:8202
+msgid "LOGIN FIELDS"
+msgstr "LOGIN FIELDS"
+
+#: digit.php:8230 includes/wcs.php:493
+msgid "Remember Me"
+msgstr "مجھے پہچانتے ہو"
+
+#: digit.php:8234
+msgid "Always"
+msgstr "ہمیشہ"
+
+#: digit.php:8243
+msgid "REGISTRATION FIELDS"
+msgstr "REGISTRATION FIELDS"
+
+#: digit.php:8321
+msgid "ADD FIELD"
+msgstr "ADD FIELD"
+
+#: digit.php:8354
+msgid "WordPress / WooCommerce Fields"
+msgstr "WordPress / WooCommerce Fields"
+
+#: digit.php:8373
+msgid "Label"
+msgstr "لیبل"
+
+#: digit.php:8380
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
+msgstr ""
+"رازداری کی پالیسی کے لئے شرائط اور شرط اور [P] اور [/ T] کیلئے [T] اور [/ T] "
+"کے درمیان لفظ (ے) بھیجیں."
+
+#: digit.php:8382
+msgid ""
+"For example \"I Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr ""
+"مثال کے طور پر \"میں متفق ہوں [T] شرائط و ضوابط [/ T] اور [P] رازداری کی "
+"پالیسی [/ T]\""
+
+#: digit.php:8389
+msgid "Required Field"
+msgstr "مطلوب خانہ"
+
+#: digit.php:8401
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: digit.php:8409
+msgid "Custom Class"
+msgstr "Custom Class"
+
+#: digit.php:8418
+msgid "Options"
+msgstr "انتخابات"
+
+#: digit.php:8424
+msgid "Add a Option"
+msgstr "ایک کے انتخاب کا اضافہ"
+
+#: digit.php:8431
+msgid "Terms & Conditions Link"
+msgstr "شرائط و ضوابط لنک"
+
+#: digit.php:8440
+msgid "Privacy Link"
+msgstr "پرائیویسی لنک"
+
+#: digit.php:8450
+msgid "User Roles"
+msgstr "صارف کے کردار"
+
+#: digit.php:8474
+msgid "Add"
+msgstr "شامل کریں"
+
+#: digit.php:8509
+msgid "Activate Digits"
+msgstr "Digits محرک کریں"
+
+#: digit.php:8534
+msgid "Is this domain your"
+msgstr "اس ڈومین میں ہے آپ کی"
+
+#: digit.php:8536
+msgid "Live Server"
+msgstr "Live Server"
+
+#: digit.php:8537
+msgid "Testing Server"
+msgstr "Testing Server"
+
+#: digit.php:8541
+msgid "Purchase code"
+msgstr "خریداری کے کوڈ"
+
+#: digit.php:8546
+msgid "Purchase Code"
+msgstr "خریداری کے کوڈ"
+
+#: digit.php:8548
+msgid "UNREGISTER"
+msgstr "UNREGISTER"
+
+#: digit.php:8562
+msgid "Please activate your plugin to receive updates"
+msgstr "تازہ ترین معلومات حاصل کرنے کے لئے آپ پلگ ان کو چالو براہ کرم"
+
+#: digit.php:8571
+msgid ""
+"If you want to use same purchase code on your live server then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
+msgstr ""
+"آپ اپنی لائیو سرور پر ایک ہی خریداری کے کوڈ کا استعمال کرنا چاہتے ہیں تو پھر "
+"اس کے لئے درخواست کرنے کے لئے ذیل بٹن پر کلک کریں براہ مہربانی. ہماری ٹیم آپ "
+"کی درخواست کا جواب کرنے کے لئے 12 گھنٹے سے بھی کم لے جائے گا، اور ای میل کے "
+"ذریعے مطلع کریں گے."
+
+#: digit.php:8574
+msgid ""
+"If you want to use same purchase code on your testing server then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+"آپ کو آپ کی جانچ کے سرور پر ایک ہی خریداری کے کوڈ کا استعمال کرنا چاہتے ہیں "
+"تو پھر اس کے لئے درخواست کرنے کے لئے ذیل بٹن پر کلک کریں براہ مہربانی. ہماری "
+"ٹیم آپ کی درخواست کا جواب کرنے کے لئے 12 گھنٹے سے بھی کم لے جائے گا، اور ای "
+"میل کے ذریعے مطلع کریں گے."
+
+#: digit.php:8576
+msgid "Request Live Server Addition"
+msgstr "لائیو سرور اضافہ کی درخواست کریں"
+
+#: digit.php:8577
+msgid "Request Testing Server Addition"
+msgstr "ٹیسٹنگ سرور اضافہ کی درخواست کریں"
+
+#: digit.php:8593
+msgid "Activate"
+msgstr "محرک کریں"
+
+#: digit.php:8595
+msgid "Skip"
+msgstr "چھوڑ دو"
+
+#: digit.php:8608
+msgid "Have a look at our documentation"
+msgstr "ہمارے دستاویزات پر ایک نظر ہے"
+
+#: digit.php:8610
+msgid ""
+"Do you feel like you need some help with the setup, go through our detailed "
+"documentation it will guide you through."
+msgstr ""
+"آپ کو سیٹ اپ کے ساتھ کچھ مدد کی ضرورت ہے آپ کی طرح محسوس کریں، یہ آپ کے "
+"ذریعے راہنمائی کرے گا ہمارے تفصیلی دستاویزات کے ذریعے جانا."
+
+#: digit.php:8614
+msgid "Open Documentation"
+msgstr "کھولیں دستاویزی"
+
+#: digit.php:8617
+msgid ""
+"Having the documentation opened in other tab can help you if you get stuck "
+"somewhere in the middle."
+msgstr ""
+"آپ درمیان میں کہیں پھنس تو دستاویزات دوسرے ٹیب میں کھلا ہو رہی ہے آپ کی مدد "
+"کر سکتے ہیں."
+
+#: digit.php:8618
+msgid ""
+"Don't worry, we'll not tell anyone that you went through our documentation "
+"to setup this simple thing."
+msgstr ""
+"فکر مت کرو، ہم کسی کو سیٹ اپ کرنے کے لئے ہمارے دستاویزات یہ آسان سی بات کے "
+"ذریعے چلا گیا ہے کہ بتا نہیں کریں گے."
+
+#: digit.php:8635
+msgid "Digits is ready!"
+msgstr "Digits تیار ہے!"
+
+#: digit.php:8636
+msgid ""
+"Congratulations! Digits has been activated and your website is ready. Login "
+"to your WordPress\n"
+"        dashboard to make changes and modify any of the content to suit your "
+"needs."
+msgstr ""
+"مبارک ہو! ہندسے چالو کر دیا گیا ہے اور آپ کی ویب سائٹ کے لئے تیار ہے. اپنے "
+"ورڈپریس لاگ ان کریں\n"
+"تبدیلی اور آپ کی ضروریات کے مطابق کرنے کے لئے مواد کے کسی بھی نظر ثانی کرنے "
+"کے ڈیش بورڈ."
+
+#: digit.php:8666
+msgid "Login Page Configuration"
+msgstr "صفحہ کنفگریشن لاگ ان کریں"
+
+#: digit.php:8695
+msgid "Select a Image"
+msgstr "ایک تصویر منتخب کریں"
+
+#: digit.php:8696
+msgid "Use this Image"
+msgstr "اس تصویر کا استعمال"
+
+#: digit.php:8754
+msgid "Unexpected error occured while getting addons"
+msgstr "addons کے حاصل کرتے ہوئے غیر متوقع خرابی پیدا ہوگئی"
+
+#: digit.php:8768
+msgid "Active Addons"
+msgstr "فعال Addons کے"
+
+#: digit.php:8840
+msgid "New Addons"
+msgstr "نیا Addons کے"
+
+#: digit.php:8898
+msgid "Welcome to the configuration wizard for DIGITS!"
+msgstr "Digits کی ترتیب میں خوش آمدید"
+
+#: digit.php:8900
+msgid ""
+"Thank you for choosing Digits. This quick setup wizard will help you to "
+"configure this plugin in a few simple steps."
+msgstr ""
+"ہندسے کو منتخب کرنے کے لئے آپ کا شکریہ. یہ فوری سیٹ اپ وزرڈ آپ کو چند آسان "
+"اقدامات میں اس پلگ ان کو ترتیب دینے میں مدد ملے گی."
+
+#: digit.php:8902
+msgid "It should only take 4-5 minutes."
+msgstr "یہ صرف 4-5 منٹ لینا چاہئے."
+
+#: digit.php:8904
+msgid ""
+"Busy right now! If you don't want to go through the wizard, you can skip and "
+"return to the WordPress dashboard and come back anytime."
+msgstr ""
+"مصروف ابھی! آپ وزرڈ کے ذریعے جانے کے لئے نہیں کرنا چاہتے ہیں تو، آپ کو چھوڑ "
+"دیں اور ورڈپریس ڈیش بورڈ پر واپس جانے اور کسی بھی وقت واپس آ سکتے ہیں."
+
+#: digit.php:8923
+msgid "Return to the WordPress Dashboard"
+msgstr "Wordpress Dashboard پر واپس جائیں"
+
+#: digmergphne/digmergphne.php:71
+msgid "Merge Mobile Number"
+msgstr "موبائل نمبر ضم کریں"
+
+#: digmergphne/digmergphne.php:76
+msgid "Merge Billing and Account Mobile Fields"
+msgstr "بلنگ اور اکاؤنٹ موبائل قطعات ضم کریں"
+
+#: digmergphne/digmergphne.php:87
+msgid ""
+"This will merge WooCommerce's Billing and Account Phone Number (Digits), "
+"Account phone number field will be removed from checkout and Billing Phone "
+"Number will be used as account phone number."
+msgstr ""
+"یہ ورڈپریس کے بلنگ اور اکاؤنٹ فون نمبر (اعداد)، اکاؤنٹ کے فون نمبر میدان سے "
+"چیک آؤٹ اور بلنگ کے فون نمبر کے طور پر اکاؤنٹ کا فون نمبر استعمال کیا جائے "
+"گا ہٹا دیا جائے گا ضم کریں گے."
+
+#: digoldaccntmr/digoldaccntmr.php:95
+msgid "Old Account Migrator"
+msgstr "پرانے اکاؤنٹ Migrator"
+
+#: digoldaccntmr/digoldaccntmr.php:100
+msgid "Show \"Add Phone Number\" Popup to Old Users"
+msgstr "دکھائیں \"فون نمبر شامل کریں\" پرانے صارفین کو پاپ اپ"
+
+#: digoldaccntmr/digoldaccntmr.php:111
+msgid ""
+"This feature will show popup / modal to old users asking them to enter their "
+"mobile number"
+msgstr ""
+"یہ خصوصیت ان کے موبائل نمبر درج کرنے کے لئے ان سے پوچھ کے پرانے صارفین کے "
+"لئے پاپ اپ / موڈل دکھائے گا"
+
+#: digoldaccntmr/digoldaccntmr.php:117
+msgid "Make it compulsory"
+msgstr "یہ لازمی بنائیں"
+
+#: digoldaccntmr/digoldaccntmr.php:128 digoldaccntmr/digoldaccntmr.php:145
+msgid ""
+"If set to yes, users will not be able to close the popup if they don't enter "
+"the mobile number"
+msgstr ""
+"ہاں مقرر کرتے ہیں تو صارفین کو وہ موبائل نمبر درج نہیں ہے تو پاپ اپ کو بند "
+"کرنے کے لئے نہیں کر سکیں گے"
+
+#: digoldaccntmr/digoldaccntmr.php:134
+msgid "When to show"
+msgstr "ظاہر کرنے کے لئے جب"
+
+#: digoldaccntmr/digoldaccntmr.php:140
+msgid "Only on first login"
+msgstr "صرف پہلے لاگ ان پر"
+
+#: digoldaccntmr/digoldaccntmr.php:143
+msgid "Every login until they enter phone number"
+msgstr "ہر لاگ ان تک وہ فون نمبر درج"
+
+#: digoldaccntmr/digoldaccntmr.php:153
+msgid "Database Migrator"
+msgstr "Database Migrator"
+
+#: digoldaccntmr/digoldaccntmr.php:164
+msgid "OPEN PHONE DATABASE MIGRATOR"
+msgstr "OPEN PHONE DATABASE MIGRATOR"
+
+#: digoldaccntmr/digoldaccntmr.php:176
+msgid "OLD ACCOUNT MIGRATOR"
+msgstr "OLD ACCOUNT MIGRATOR"
+
+#: digoldaccntmr/digoldaccntmr.php:183
+msgid "Country of Users"
+msgstr "صارفین کا ملک"
+
+#: digoldaccntmr/digoldaccntmr.php:198
+msgid "Copy From"
+msgstr "سے کاپی"
+
+#: digoldaccntmr/digoldaccntmr.php:201
+msgid "WooCommerce Billing Phone"
+msgstr "WooCommerce بلنگ فون"
+
+#: digoldaccntmr/digoldaccntmr.php:202
+msgid "Another Field"
+msgstr "ایک اور میدان"
+
+#: digoldaccntmr/digoldaccntmr.php:208
+msgid "Meta Key of Existing Phone Numbers"
+msgstr "موجودہ فون نمبر کا میٹا کلیدی"
+
+#: digoldaccntmr/digoldaccntmr.php:221
+msgid "MIGRATION SUCCESSFUL"
+msgstr "MIGRATION SUCCESSFUL"
+
+#: digoldaccntmr/digoldaccntmr.php:228
+msgid "ACCOUNT DETAILS"
+msgstr "ACCOUNT DETAILS"
+
+#: digoldaccntmr/digoldaccntmr.php:229
+msgid "REASON"
+msgstr "REASON"
+
+#: digoldaccntmr/digoldaccntmr.php:239
+msgid "RUN MIGRATOR"
+msgstr "RUN MIGRATOR"
+
+#: digoldaccntmr/digoldaccntmr.php:540
+msgid "Add Phone Number"
+msgstr "فون نمبر شامل کریں"
+
+#: digoldaccntmr/digoldaccntmr.php:543
+msgid ""
+"You will be able to login using this mobile number and OTP passcode from "
+"next time."
+msgstr ""
+"آپ اگلی بار سے اس کا موبائل نمبر اور OTP پاس کوڈ کا استعمال کرتے ہوئے میں "
+"لاگ ان کرنے کے قابل ہو جائے گا."
+
+#: digoldaccntmr/digoldaccntmr.php:545
+msgid "No need to remember your password."
+msgstr "آپ کا پاس ورڈ یاد رکھنے کی ضرورت نہیں ہے."
+
+#: digoldaccntmr/digoldaccntmr.php:597
+msgid "ADD"
+msgstr "شامل کریں"
+
+#: digoneclickls/digoneclickls.php:70 digoneclickls/digoneclickls.php:75
+msgid "One Click Login-Signup"
+msgstr "ایک کلک لاگ ان سائن اپ"
+
+#: digoneclickls/digoneclickls.php:151
+msgid "A verification code will be sent to your number"
+msgstr "ایک توثیقی کوڈ آپ کے نمبر پر بھیجا جائے گا"
+
+#: digoneclickls/digoneclickls.php:188
+msgid "Proceed"
+msgstr "آگے بڑھو"
+
+#: digoneclickls/digoneclickls.php:236 includes/login.php:236
+msgid "Please enter a valid captcha!"
+msgstr "ایک درست Captcha درج کریں!"
+
+#: digpagelock/digpagelock.php:100
+msgid "Forced Login"
+msgstr "جبری لاگ ان"
+
+#: digpagelock/digpagelock.php:105
+msgid "Lock Full Website"
+msgstr "مکمل ویب سائٹ کو لاک"
+
+#: digpagelock/digpagelock.php:116
+msgid ""
+"This will lock the whole website so that it can only be accessed by logged "
+"in users."
+msgstr ""
+"تاکہ یہ صرف صارفین میں لاگ ان کی طرف سے حاصل کیا جاسکتا ہے یہ پوری ویب سائٹ "
+"کو مقفل گا."
+
+#: digpagelock/digpagelock.php:122
+msgid "Lock WooCommerce Checkout Page"
+msgstr "لاک WooCommerce چیکآاٹ پیج"
+
+#: digpagelock/digpagelock.php:133
+msgid ""
+"This will lock the checkout page so that it can only be accessed by logged "
+"in users."
+msgstr ""
+"تاکہ یہ صرف صارفین میں لاگ ان کی طرف سے حاصل کیا جاسکتا ہے یہ چیکآاٹ صفحہ "
+"مقفل کر دے گی."
+
+#: digpagelock/digpagelock.php:139
+msgid "Lock Method"
+msgstr "لاک طریقہ"
+
+#: digpagelock/digpagelock.php:346
+msgid "Page Lock"
+msgstr "صفحہ لاک"
+
+#: digpagelock/digpagelock.php:372
+msgid "Lock this page"
+msgstr "اس صفحے کو لاک"
+
+#: digpagelock/digpagelock.php:380
+msgid "Method"
+msgstr "طریقہ"
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:224
+msgid "Clockwork SMS"
+msgstr "Clockwork ایس ایم ایس"
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:225
+msgid "Clockwork Options"
+msgstr "Clockwork اختیارات"
+
+#: includes/bp.php:49
+msgid "(required)"
+msgstr "(ضروری ہے)"
+
+#: includes/ihu.php:24 includes/wcs.php:386 includes/wp.php:210
+#: includes/wp.php:223
+msgid "Please enter a valid Mobile Number"
+msgstr "ایک درست موبائل نمبر درج کریں"
+
+#: includes/ihu.php:29 includes/wp.php:228
+msgid "Mobile Number verification failed"
+msgstr "موبائل نمبر کی توثیق ناکام ہوگئی"
+
+#: includes/ihu.php:59 includes/wcs.php:392 includes/wcs.php:424
+#: includes/wp.php:258
+msgid "Please enter a valid OTP"
+msgstr "ایک درست OTP درج کریں"
+
+#: includes/phandler.php:44
+msgid "Please enter a valid purchase code"
+msgstr "ایک درست خریداری کوڈ داخل کریں."
+
+#: includes/phandler.php:54
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "معذرت، آپ کو اس سائٹ پر پلگ ان انسٹال کرنے کی اجازت نہیں ہے."
+
+#: includes/phandler.php:68
+msgid "Error while verifying your addon license."
+msgstr "آپ Addon لائسنس کی توثیق کرتے وقت خرابی."
+
+#: includes/phandler.php:90
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "فائل سسٹم سے منسلک ہونے سے قاصر ہے. آپ کے اسناد کی تصدیق کریں."
+
+#: includes/register.php:111
+msgid "is a required field."
+msgstr "ایک مطلوبہ فیلڈ ہے."
+
+#: includes/register.php:145
+msgid "This Mobile number is already registered."
+msgstr "یہ موبائل نمبر پہلے ہی رجسٹر ہے."
+
+#: includes/register.php:170
+msgid "Please provide a valid email address/Mobile number."
+msgstr "ایک درست ای میل ایڈریس / موبائل نمبر فراہم کریں."
+
+#: includes/register.php:176 includes/woocommerce-registration.php:392
+#: includes/woocommerce-registration.php:398
+msgid "Please provide a valid email address."
+msgstr "ایک درست ای میل ایڈریس فراہم کریں."
+
+#: includes/register.php:178
+msgid "This email address is already registered."
+msgstr "یہ ای میل پتہ پہلے سے رجسٹرڈ ہے."
+
+#: includes/register.php:187
+msgid "Please fill out all password fields."
+msgstr "تمام پاس ورڈ خانہ کو بھرنے کریں."
+
+#: includes/register.php:190
+msgid "Please enter your current password."
+msgstr "اپنا موجودہ پاس ورڈ درج کریں."
+
+#: includes/register.php:193
+msgid "Please re-enter your password."
+msgstr "براہ مہربانی اپنے پاس ورڈ کا دوبارہ اندراج کیجیے."
+
+#: includes/register.php:196
+msgid "New passwords do not match."
+msgstr "نیا پاس ورڈ کو نہیں ملتے."
+
+#: includes/register.php:199
+msgid "Your current password is incorrect."
+msgstr "اپنا موجودہ پاس ورڈ غلط ہے."
+
+#: includes/register.php:220
+msgid "Account details changed successfully."
+msgstr "اکاؤنٹ کی تفصیلات کامیابی سے بدل دیا."
+
+#: includes/register.php:701
+msgid "Invalid password"
+msgstr "غلط پاسورڈ"
+
+#: includes/register.php:730
+msgid "Error:"
+msgstr "خرابی:"
+
+#: includes/um.php:36
+msgid "Please enter Mobile Number."
+msgstr "موبائل نمبر درج کریں."
+
+#: includes/um.php:43 includes/um.php:54 includes/um.php:64 includes/um.php:72
+msgid "Unable to verify Mobile number"
+msgstr "موبائل نمبر کی تصدیق کرنے سے قاصر ہے"
+
+#: includes/wcs.php:34
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: includes/wcs.php:84
+msgid "Verification Code"
+msgstr "تصدیقی کوڈ"
+
+#: includes/wcs.php:85
+#, php-format
+msgid "Please type the verification code sent to %s."
+msgstr "%s پر بھیجا گیا تصدیقی کوڈ ٹائپ کریں براہ مہربانی."
+
+#: includes/wcs.php:96
+msgid "SUBMIT"
+msgstr "جمع کرائیں"
+
+#: includes/wcs.php:233
+msgid ""
+"<b>Digits:</b> Please register digits with purchase code to enable automatic "
+"updates. Click <a href=\""
+msgstr ""
+"میں <b> ہندسے: < b/> خریداری کوڈ کے ساتھ ہندسوں رجسٹر ہو جائیے خودکار اپ "
+"ڈیٹس کو چالو کرنے کے لئے. ایک href کلک کریں <= \""
+
+#: includes/wcs.php:285
+msgid "Digits Menu Items"
+msgstr "Digits مینو آئٹمز"
+
+#: includes/wcs.php:316
+msgid "Signup Page"
+msgstr "سائن اپ صفحہ"
+
+#: includes/wcs.php:317
+msgid "Signup Modal"
+msgstr "سائن اپ موڈل"
+
+#: includes/wcs.php:347
+msgid "Select all"
+msgstr "تمام منتخب کریں"
+
+#: includes/wcs.php:350
+msgid "Add to menu"
+msgstr "مینو میں شامل کریں"
+
+#: includes/wcs.php:390
+msgid "Mobile Number is already in use"
+msgstr "موبائل نمبر پہلے سے استعمال میں ہے"
+
+#: includes/woocommerce-registration.php:70
+msgid "Extra Profile Information"
+msgstr "اضافی پروفائل کی معلومات"
+
+#: includes/woocommerce-registration.php:82
+msgid "Please enter your Mobile Number."
+msgstr "آپ کا موبائل نمبر درج کریں."
+
+#: includes/woocommerce-registration.php:182
+msgid "Please enter your email or Mobile Number!"
+msgstr "آپ کا ای میل یا موبائل نمبر درج کریں!"
+
+#: includes/woocommerce-registration.php:252
+msgid "Billing Email"
+msgstr "بلنگ ای میل"
+
+#: includes/woocommerce-registration.php:253
+msgid "Billing Mobile Number"
+msgstr "بلنگ کے موبائل نمبر"
+
+#: includes/woocommerce-registration.php:361
+msgid "Please signup before placing order!"
+msgstr "حکم رکھنے سے پہلے سائن اپ کریں براہ مہربانی!"
+
+#: includes/woocommerce-registration.php:384
+msgid "Unable to verify OTP!"
+msgstr "OTP کی توثیق کرنے سے قاصر ہے!"
+
+#: includes/woocommerce-registration.php:403
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+"ایک اکاؤنٹ پہلے سے ہی آپ کے ای میل ایڈریس کے ساتھ رجسٹرڈ ہے. برائے مہربانی "
+"لاگ ان کریں."
+
+#: includes/woocommerce-registration.php:437
+msgid "Invalid Mobile Number or email"
+msgstr "ناقص موبائل نمبر یا ای میل"
+
+#: includes/woocommerce-registration.php:520
+#: includes/woocommerce-registration.php:528
+msgid "Error verifying Mobile Number"
+msgstr "موبائل نمبر کی تصدیق کرنے میں خرابی"
+
+#: includes/woocommerce-registration.php:559
+msgid "Mobile number verification failed!"
+msgstr "موبائل نمبر کی توثیق ناکام!"
+
+#: includes/woocommerce-registration.php:583
+msgid "ERROR"
+msgstr "خرابی"
+
+#: includes/woocommerce-registration.php:583
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+"Couldn & # 8217؛ آپ hellip اور عمومی رجسٹر کریں. آپ کے مسائل ہیں کرنے کے لئے "
+"جاری ہے تو ہم سے رابطہ کریں."
+
+#: includes/woocommerce-registration.php:686
+msgid "Invalid country code!"
+msgstr "غلط ملک کا کوڈ!"
+
+#: includes/woocommerce-registration.php:696
+msgid "Please enter Mobile Number!"
+msgstr "موبائل نمبر درج کریں!"
+
+#: includes/woocommerce-registration.php:699
+msgid "Please enter country code!"
+msgstr "ملک کا کوڈ درج کریں!"
+
+#: includes/woocommerce-registration.php:706
+msgid "Invalid  Email!"
+msgstr "غلط ای میل!"
+
+#: includes/woocommerce-registration.php:1069
+msgid "*"
+msgstr "*"
+
+#: includes/woocommerce-registration.php:1184
+msgid "Register with OTP"
+msgstr "OTP کے ساتھ رجسٹر"
+
+#: includes/woocommerce-registration.php:1228
+msgid "Mobile Number is required!"
+msgstr "موبائل نمبر کی ضرورت ہے!"
+
+#: includes/woocommerce-registration.php:1244
+msgid ""
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+"آپ کا پاس ورڈ کھو دیا؟ ایک نیا پاس ورڈ پیدا کرنے کے لئے ایک لنک حاصل کرنے کے "
+"لئے OTP یا ای میل پتہ وصول کرنے کیلئے اپنا موبائل نمبر درج کریں."
+
+#: includes/woocommerce-registration.php:1252
+msgid "Digits"
+msgstr "Digits"
+
+#: includes/woocommerce-registration.php:1308
+msgid "User"
+msgstr "صارف"
+
+#: includes/woocommerce-registration.php:1323
+msgid "Digits Data Eraser"
+msgstr "Digits Data Eraser"
+
+#: includes/woocommerce-registration.php:1358
+#: includes/woocommerce-registration.php:1371
+msgid "Removed"
+msgstr "ہٹا"
+
+#: includes/wp.php:277
+msgid "Mobile Number is already in use!"
+msgstr "موبائل نمبر پہلے سے استعمال میں ہے!"
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: Wordpress Mobile Number Signup and Login"
+msgstr "Digits: ورڈپریس موبائل نمبر سائن اپ اور لاگ ان"
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com"
+msgstr "https://digits.unitedover.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register himself/herself with just a mobile number."
+msgstr ""
+"سائن اپ فراہم کرکے اور موبائل نمبر کے ذریعے لاگ ان آپ کی ویب سائٹ کے طول و "
+"عرض وسیع کریں. صارف کو صرف ایک موبائل نمبر کے ساتھ خود / خود کو رجسٹر کر "
+"سکتے ہیں."
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr "UnitedOver"
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr "https://www.unitedover.com/"
